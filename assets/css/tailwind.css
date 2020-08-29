@@ -1,0 +1,16 @@
+:root {
+  --hlc-magenta: #782679;
+  --hlc-blue: #356676;
+  --hlc-yellow: #f19c3d;
+  --hlc-brown: #a38e7d;
+  --hlc-green: #42722c;
+  --hlc-dark-green: #222e1b;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities'; */
