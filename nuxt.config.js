@@ -46,7 +46,8 @@ export default {
   buildModules: [
     "@nuxt/typescript-build",
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    "@nuxtjs/tailwindcss"
+    "@nuxtjs/tailwindcss",
+    "@nuxtjs/fontawesome"
   ],
   /*
    ** Nuxt.js modules
@@ -69,10 +70,16 @@ export default {
       plugins: {
         autoprefixer: {},
         cssnano: {
-          preset: 'default'
+          preset: "default"
         },
-        "postcss-nested": {},
+        "postcss-nested": {}
       }
+    }
+  },
+  fontawesome: {
+    icons: {
+      solid: ["faHome", "faEnvelope", "faPhoneAlt", "faExternalLinkAlt"],
+      brands: ["faFacebook"]
     }
   }
 };

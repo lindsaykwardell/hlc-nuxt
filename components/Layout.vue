@@ -1,6 +1,8 @@
 <template>
   <div>
-    <header class="flex items-center mx-5 my-3">
+    <header
+      class="flex items-center px-5 py-3 bg-gradient-to-l from-hlc-blue-500 via-hlc-blue-500 border-t-8 border-hlc-magenta-500"
+    >
       <div class="flex-grow">
         <img
           src="/hlc-logo.png"
@@ -8,16 +10,7 @@
           class="logo"
         />
       </div>
-      <nav>
-        <nuxt-link
-          class="text-xl p-4 bg-gray-200 mx-2"
-          :class="{ 'bg-hlc-magenta': activePage === page.slug }"
-          v-for="page in _pages"
-          :key="page.slug"
-          :to="page.slug"
-          >{{ page.title }}</nuxt-link
-        >
-      </nav>
+      <Navbar :pages="_pages" :activePage="activePage" />
     </header>
     <main>
       <slot />
@@ -27,7 +20,16 @@
 
 <script>
 export default {
-  props: ["pages", "activePage"],
+  props: {
+    pages: {
+      type: Array,
+      default: () => []
+    },
+    activePage: {
+      type: String,
+      default: "/"
+    }
+  },
   computed: {
     _pages() {
       return [

@@ -1,0 +1,75 @@
+<template>
+  <nav class="flex flex-col">
+    <div class="flex justify-end" role="nav-links">
+      <nuxt-link
+        class="text-xl px-4 py-2 mx-2 font-mulish rounded-lg hover:shadow transition duration-100 hover:bg-hlc-blue-600 text-hlc-blue-100"
+        :class="{
+          'underline bg-hlc-blue-700': activePage === page.slug
+        }"
+        v-for="page in pages"
+        :key="page.slug"
+        :to="page.slug"
+        >{{ page.title }}</nuxt-link
+      >
+    </div>
+    <div class="flex pt-2" role="contact">
+      <SubLink
+        role="address"
+        icon="home"
+        href="https://www.google.com/maps/place/Healthy+Living+Family+Medicine/@45.5010788,-122.6419802,13z/data=!4m5!3m4!1s0x0:0xd50c150241c3d305!8m2!3d45.496872!4d-122.6399088"
+      >
+        3605 SE 26th Ave<br />
+        Portland, OR 97202
+      </SubLink>
+      <SubLink
+        role="patient-portal"
+        :icon="['fa', 'external-link-alt']"
+        href="https://phr.charmtracker.com/login.sas?FACILITY_ID=9fac109f10b85efdeadfd56aed2ab60a43b1154fc374a4756c8f7ea08edb2f3fd95fcbc3b76e32a2"
+      >
+        Go to Patient Portal <br />
+        (opens in new window)
+      </SubLink>
+      <SubLink role="social-media-links" separateHover>
+        <template #default="{hoverClass}">
+          <a
+            href="https://www.facebook.com/HealthyLivingCommunityNP"
+            target="_blank"
+            alt="HLC Facebook Page"
+          >
+            <font-awesome-icon
+              :icon="['fab', 'facebook']"
+              class="text-2xl mx-1"
+              :class="hoverClass"
+            />
+          </a>
+          <a
+            href="mailto:drkerry@healthylivingfamilymedicine.com"
+            alt="Email Contact"
+          >
+            <font-awesome-icon
+              :icon="['fa', 'envelope']"
+              class="text-2xl mx-1"
+              :class="hoverClass"
+            />
+          </a>
+        </template>
+      </SubLink>
+      <Phone />
+    </div>
+  </nav>
+</template>
+
+<script>
+export default {
+  props: {
+    pages: {
+      type: Array,
+      default: () => []
+    },
+    activePage: {
+      type: String,
+      default: "/"
+    }
+  }
+};
+</script>

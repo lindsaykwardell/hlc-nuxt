@@ -9,12 +9,16 @@
     "generate": "nuxt-ts generate"
   },
   "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@nuxt/content": "^1.5.0",
     "@nuxt/typescript-runtime": "^1.0.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
     "autoprefixer": "^9.8.6",
     "cssnano": "^4.1.10",
     "nuxt": "^2.14.0",
-    "postcss-nested": "^4.2.3"
+    "postcss-nested": "^4.2.3",
+    "vuetensils": "^0.7.4"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.0",
