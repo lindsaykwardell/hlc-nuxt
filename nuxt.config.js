@@ -93,5 +93,6 @@ export default {
       ],
       brands: ["faFacebook"]
     }
-  }
+  },
+  telemetry: false
 };
