@@ -3,15 +3,12 @@
     <component :is="page.template || 'StandardTemplate'" :content="addlContent">
       <nuxt-content :document="page" />
     </component>
-    <font-awesome-icon v-if="false" />
   </Layout>
 </template>
 
 <script>
 import StandardTemplate from "@/components/Template/StandardTemplate";
 import CardsTemplate from "@/components/Template/CardsTemplate";
-import DonateButton from "@/components/DonateButton";
-import Flex from "@/components/Generic/Flex";
 
 export default {
   async asyncData({ $content, params }) {
@@ -30,8 +27,6 @@ export default {
   components: {
     StandardTemplate,
     CardsTemplate,
-    DonateButton,
-    Flex
   }
 };
 </script>
