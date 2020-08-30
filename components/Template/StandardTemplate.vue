@@ -1,0 +1,42 @@
+<template>
+  <div class="standard-template container">
+    <slot />
+  </div>
+</template>
+
+<style lang="postcss">
+.standard-template {
+  @apply bg-white shadow p-3;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-center;
+  }
+
+  table {
+    @apply w-full table-fixed text-center;
+  }
+
+  .flex {
+    * {
+      @apply flex-1;
+    }
+  }
+
+  a {
+    @apply text-hlc-green-500 underline;
+
+    &:hover {
+      @apply text-hlc-green-900;
+    }
+  }
+
+  img {
+    @apply m-auto;
+  }
+}
+</style>

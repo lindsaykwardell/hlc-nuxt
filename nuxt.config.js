@@ -60,7 +60,9 @@ export default {
    ** Content module configuration
    ** See https://content.nuxtjs.org/configuration
    */
-  content: {},
+  content: {
+    liveEdit: false
+  },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
@@ -75,6 +77,10 @@ export default {
         "postcss-nested": {}
       }
     }
+  },
+  tailwindcss: {
+    cssPath: "~/assets/css/tailwind.postcss",
+    configPath: "tailwind.config.js"
   },
   fontawesome: {
     icons: {
