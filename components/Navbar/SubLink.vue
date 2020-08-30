@@ -4,9 +4,9 @@
     :href="href"
     target="_blank"
     :role="role"
-    class="font-mulish flex items-center px-3 text-hlc-blue-300 cursor-pointer select-none"
+    class="font-mulish flex items-center px-3 text-hlc-green-300 cursor-pointer select-none"
     :class="{
-      'hover:text-hlc-blue-200 transition duration-100': !separateHover
+      'hover:text-hlc-green-200 transition duration-100': !separateHover
     }"
   >
     <font-awesome-icon v-if="icon" :icon="icon" class="text-5xl pr-3" />

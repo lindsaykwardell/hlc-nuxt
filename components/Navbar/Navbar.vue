@@ -2,13 +2,13 @@
   <nav class="flex flex-col">
     <div class="flex justify-end" role="nav-links">
       <nuxt-link
-        class="text-xl px-4 py-2 mx-2 font-mulish rounded-lg hover:shadow transition duration-100 hover:bg-hlc-blue-600 text-hlc-blue-100"
+        class="text-xl px-4 py-2 mx-2 font-mulish rounded-lg hover:shadow transition duration-100 hover:bg-hlc-green-600 text-hlc-green-100"
         :class="{
-          'underline bg-hlc-blue-700': activePage === page.slug
+          'underline bg-hlc-green-700': activePage === page.slug
         }"
         v-for="page in pages"
         :key="page.slug"
-        :to="'/' + page.slug"
+        :to="page.slug === '/' ? page.slug : '/' + page.slug"
         >{{ page.title }}</nuxt-link
       >
     </div>

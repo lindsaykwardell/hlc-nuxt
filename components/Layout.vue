@@ -1,7 +1,7 @@
 <template>
   <div>
     <header
-      class="flex items-center px-5 py-3 bg-gradient-to-l from-hlc-blue-500 via-hlc-blue-500 border-t-8 border-hlc-magenta-500"
+      class="flex items-center px-5 py-3 bg-gradient-to-l from-hlc-green-500 via-hlc-green-500 border-t-8 border-hlc-magenta-500"
     >
       <div class="flex-grow">
         <img
@@ -12,11 +12,12 @@
       </div>
       <Navbar :pages="_pages" :activePage="activePage" />
     </header>
-    <div v-if="activePage === '/'" class="bg-gradient-to-l from-gray-200 to-gray-200 via-hlc-blue-500">
+    <div
+      v-if="activePage === '/'"
+      class="bg-gradient-to-l from-gray-200 to-gray-200 via-hlc-green-500"
+    >
       <div class="hero">
-        <client-only>
-          <VImg src="/IMG_3197.jpg" background="green" />
-        </client-only>
+        <VImg src="/IMG_3197.jpg" background="green" />
       </div>
     </div>
     <main>
@@ -26,7 +27,7 @@
 </template>
 
 <script>
-import { VImg } from "vuetensils";
+import VImg from "vuetensils/src/components/VImg/VImg.vue";
 
 export default {
   props: {
