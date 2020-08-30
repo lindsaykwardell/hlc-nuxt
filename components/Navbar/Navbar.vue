@@ -8,7 +8,7 @@
         }"
         v-for="page in pages"
         :key="page.slug"
-        :to="page.slug"
+        :to="'/' + page.slug"
         >{{ page.title }}</nuxt-link
       >
     </div>
