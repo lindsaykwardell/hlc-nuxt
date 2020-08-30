@@ -5,6 +5,8 @@ template: StandardTemplate
 order: 0
 ---
 
+<section>
+
 # Healthy Living Community
 
 ### Together we can grow optimal health
@@ -25,7 +27,7 @@ Many individuals and families already face a variety of financial challenges, an
 
 Together, we can work to create a sustainable community of wellness for all of us here at Healthy Living Family Medicine. Let’s demonstrate to other health communities that a different approach that provides superior care is possible.
 
-<div class="flex text-center">
+<flex>
 
 ##### [Read our Booklet: ![](clinic-change-booklet250x323.jpg)](healthy-living-family-medicine-booklet.pdf)
 
@@ -34,4 +36,8 @@ Together, we can work to create a sustainable community of wellness for all of u
 [READ THE FAQ →](faq) <br />
 [READ THE POLICIES →](policies)
 
-</div>
+</flex>
+
+<div class="my-8"><donate-button></donate-button></div>
+
+</section>
