@@ -1,5 +1,5 @@
 <template>
-  <div class="w-1/3">
+  <div class="sm:w-1/2 md:w-1/3">
     <div class="card-body shadow-md p-3 m-4">
       <div class="relative overflow-hidden m-3">
         <img

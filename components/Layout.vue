@@ -1,25 +1,38 @@
 <template>
   <div>
     <header
-      class="flex flex-col sm:flex-row items-center px-5 py-3 sm:bg-gradient-to-l from-hlc-green-500 via-hlc-green-500 border-t-8 border-hlc-magenta-500"
+      class="flex 
+      flex-col 
+      md:flex-row 
+      items-center 
+      px-5 
+      py-3 
+      md:bg-gradient-to-l 
+      md:via-hlc-green-500 
+      border-t-8 
+      border-hlc-magenta-500"
     >
-      <div class="flex-grow">
+      <div class="md:flex-grow">
         <img
           src="/hlc-logo.png"
           alt="Healthy Living Community logo"
-          class="logo"
+          class="logo hidden sm:block"
+        />
+        <img
+          src="/hlc-logo-stacked.png"
+          alt="Healthy Living Community Logo"
+          class="logo stacked sm:hidden"
         />
       </div>
       <Navbar :pages="_pages" :activePage="activePage" />
     </header>
-    <div
+    <VImg
       v-if="activePage === '/'"
-      class="bg-gradient-to-l from-gray-200 to-gray-200 via-hlc-green-500"
-    >
-      <div class="hero">
-        <VImg src="/IMG_3197.jpg" background="green" />
-      </div>
-    </div>
+      class="hero"
+      src="/IMG_3197.jpg"
+      background="green"
+      height="600"
+    />
     <main>
       <slot />
     </main>
@@ -60,13 +73,16 @@ export default {
 <style lang="postcss" scoped>
 .hero {
   @apply overflow-hidden m-auto;
-  height: 600px;
   max-width: 1800px;
 }
 
 header {
   .logo {
     width: 300px;
+
+    &.stacked {
+      width: 200px;
+    }
   }
 }
 

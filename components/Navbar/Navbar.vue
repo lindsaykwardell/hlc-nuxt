@@ -1,10 +1,10 @@
 <template>
-  <nav class="flex flex-col">
-    <div class="flex flex-col sm:flex-row justify-end" role="nav-links">
+  <nav class="flex flex-col w-full sm:w-auto">
+    <div class="flex flex-col sm:flex-row justify-end w-full sm:w-auto" role="nav-links">
       <nuxt-link
-        class="text-xl px-4 py-2 mx-2 font-mulish rounded-lg hover:shadow transition duration-100 hover:bg-hlc-green-600 text-hlc-green-100"
+        class="w-full sm:w-auto text-xl px-4 py-2 mx-2 font-mulish rounded-lg hover:shadow transition duration-100 hover:bg-hlc-green-600 md:text-hlc-green-100"
         :class="{
-          'underline bg-hlc-green-700': activePage === page.slug
+          'underline bg-hlc-green-700 text-hlc-green-100': activePage === page.slug
         }"
         v-for="page in pages"
         :key="page.slug"
@@ -12,7 +12,7 @@
         >{{ page.title }}</nuxt-link
       >
     </div>
-    <div class="flex pt-2" role="contact">
+    <div class="flex flex-col sm:flex-row items-center pt-2" role="contact">
       <SubLink
         role="address"
         icon="home"
@@ -25,11 +25,12 @@
         role="patient-portal"
         :icon="['fa', 'external-link-alt']"
         href="https://phr.charmtracker.com/login.sas?FACILITY_ID=9fac109f10b85efdeadfd56aed2ab60a43b1154fc374a4756c8f7ea08edb2f3fd95fcbc3b76e32a2"
+        class="hidden sm:flex"
       >
         Go to Patient Portal <br />
         (opens in new window)
       </SubLink>
-      <SubLink role="social-media-links" separateHover>
+      <SubLink role="social-media-links" separateHover class="hidden sm:flex">
         <template #default="{hoverClass}">
           <a
             href="https://www.facebook.com/HealthyLivingCommunityNP"

@@ -1,7 +1,7 @@
 <template>
   <a
     href="tel:19712314536"
-    class="rounded-full bg-hlc-green-600 hover:bg-hlc-green-800 hover:shadow text-white text-sm font-mulish py-3 px-4 transition duration-100"
+    class="rounded-full bg-hlc-green-600 hover:bg-hlc-green-800 hover:shadow text-white text-sm font-mulish py-3 px-4 transition duration-100 w-48 sm:w-auto mt-3 sm:mt-0 text-center"
   >
     <font-awesome-icon class="nav-icon mr-2" :icon="['fa', 'phone-alt']" />
     (971) 231-4536
