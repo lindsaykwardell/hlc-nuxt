@@ -1,7 +1,7 @@
 <template>
   <div>
     <header
-      class="flex items-center px-5 py-3 bg-gradient-to-l from-hlc-green-500 via-hlc-green-500 border-t-8 border-hlc-magenta-500"
+      class="flex flex-col sm:flex-row items-center px-5 py-3 sm:bg-gradient-to-l from-hlc-green-500 via-hlc-green-500 border-t-8 border-hlc-magenta-500"
     >
       <div class="flex-grow">
         <img

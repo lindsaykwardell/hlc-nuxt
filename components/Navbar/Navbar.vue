@@ -1,6 +1,6 @@
 <template>
   <nav class="flex flex-col">
-    <div class="flex justify-end" role="nav-links">
+    <div class="flex flex-col sm:flex-row justify-end" role="nav-links">
       <nuxt-link
         class="text-xl px-4 py-2 mx-2 font-mulish rounded-lg hover:shadow transition duration-100 hover:bg-hlc-green-600 text-hlc-green-100"
         :class="{
