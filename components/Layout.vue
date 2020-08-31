@@ -15,12 +15,12 @@
     >
       <div class="md:flex-grow">
         <img
-          src="/hlc-logo.png"
+          src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_300,c_scale/v1598890782/hlc-logo_c4ggqg.png"
           alt="Healthy Living Community logo"
           class="logo hidden sm:block"
         />
         <img
-          src="/hlc-logo-stacked.png"
+          src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,c_scale/v1598891003/hlc-logo-stacked_of2z0g.png"
           alt="Healthy Living Community Logo"
           class="logo stacked sm:hidden"
         />
@@ -28,7 +28,12 @@
       <Navbar :pages="_pages" :activePage="activePage" />
     </header>
     <div v-if="activePage === '/'" class="hero">
-      <VImg src="/IMG_3197.jpg" background="green" height="600" />
+      <VImg
+        src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_1700,c_scale/v1598891063/IMG_3197_tebbix.jpg"
+        background="green"
+        height="600"
+        placeholder="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,h_200,c_limit,e_blur:400,o_90,b_black/v1598891063/IMG_3197_tebbix.jpg"
+      />
     </div>
     <main>
       <slot />
