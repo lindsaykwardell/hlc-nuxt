@@ -73,6 +73,7 @@ export default {
 <style lang="postcss" scoped>
 .hero {
   @apply overflow-hidden m-auto;
+  max-height: 600px;
   max-width: 1800px;
 }
 
