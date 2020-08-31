@@ -26,13 +26,9 @@
       </div>
       <Navbar :pages="_pages" :activePage="activePage" />
     </header>
-    <VImg
-      v-if="activePage === '/'"
-      class="hero"
-      src="/IMG_3197.jpg"
-      background="green"
-      height="600"
-    />
+    <div v-if="activePage === '/'" class="hero">
+      <VImg src="/IMG_3197.jpg" background="green" height="600" />
+    </div>
     <main>
       <slot />
     </main>
@@ -74,7 +70,7 @@ export default {
 .hero {
   @apply overflow-hidden m-auto;
   max-height: 600px;
-  max-width: 1800px;
+  max-width: 1700px;
 }
 
 header {
