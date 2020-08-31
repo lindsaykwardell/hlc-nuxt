@@ -9,6 +9,7 @@
       py-3 
       md:bg-gradient-to-l 
       md:via-hlc-green-500 
+      md:from-hlc-green-500
       border-t-8 
       border-hlc-magenta-500"
     >
