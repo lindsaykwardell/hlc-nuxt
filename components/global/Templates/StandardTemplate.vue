@@ -39,6 +39,10 @@
     img {
       @apply m-auto;
     }
+
+    ul {
+      @apply pl-5 list-disc;
+    }
   }
 }
 </style>

@@ -2,6 +2,7 @@
 title: Services
 additionalContent: services
 template: CardsTemplate
+order: 2
 ---
 
 <section>

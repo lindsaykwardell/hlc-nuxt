@@ -80,7 +80,7 @@ module.exports = {
     fontFamily: {
       ...fontFamily,
       sans:
-        "'Open Sans', 'Source Sans Pro',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif",
+        "'Lato', 'Source Sans Pro',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif",
       mulish: '"Mulish", sans-serif',
       playfair: '"Playfair Display", serif'
     }

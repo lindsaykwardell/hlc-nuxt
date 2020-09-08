@@ -8,31 +8,35 @@
       px-5 
       py-3 
       md:bg-gradient-to-l 
-      md:via-hlc-green-500 
+      md:via-hlc-green-500
       md:from-hlc-green-500
-      border-t-8 
+      border-t-8
       border-hlc-magenta-500"
     >
       <div class="md:flex-grow">
-        <img
+        <!-- <img
           src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_300,c_scale/v1598890782/hlc-logo_c4ggqg.png"
           alt="Healthy Living Community logo"
           class="logo hidden sm:block"
-        />
+        /> -->
         <img
           src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,c_scale/v1598891003/hlc-logo-stacked_of2z0g.png"
           alt="Healthy Living Community Logo"
-          class="logo stacked sm:hidden"
+          class="logo stacked md:ml-12"
         />
       </div>
       <Navbar :pages="_pages" :activePage="activePage" />
     </header>
-    <div v-if="activePage === '/'" class="hero">
-      <VImg
+    <div v-if="activePage === '/'" class="hero overflow-hidden m-auto relative mt-8 shadow-lg">
+      <button
+        class="action-button bg-hlc-magenta-500 text-white p-3 rounded-lg text-left"
+      >
+        Become a Member!*<br />
+        <span class="text-xs italic" role="label">*We call patients members, too!</span>
+      </button>
+      <img
         src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_1700,c_scale/v1598891063/IMG_3197_tebbix.jpg"
-        background="green"
-        height="600"
-        placeholder="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,h_200,c_limit,e_blur:400,o_90,b_black/v1598891063/IMG_3197_tebbix.jpg"
+        alt="Healthy Living Community hero image"
       />
     </div>
     <main>
@@ -42,8 +46,6 @@
 </template>
 
 <script>
-import VImg from "vuetensils/src/components/VImg/VImg.vue";
-
 export default {
   props: {
     pages: {
@@ -65,18 +67,21 @@ export default {
         ...this.pages.map(page => page).sort((a, b) => a.order - b.order)
       ];
     }
-  },
-  components: {
-    VImg
   }
 };
 </script>
 
 <style lang="postcss" scoped>
 .hero {
-  @apply overflow-hidden m-auto;
-  max-height: 600px;
-  max-width: 1700px;
+  max-height: 450px;
+  max-width: 1200px;
+
+  & .action-button {
+    @apply absolute;
+    z-index: 30;
+    bottom: 30px;
+    right: 50px;
+  }
 }
 
 header {

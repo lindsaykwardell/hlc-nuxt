@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import StandardTemplate from "@/components/Template/StandardTemplate";
+import StandardTemplate from "@/components/global/Templates/StandardTemplate";
 
 export default {
   extends: StandardTemplate,
