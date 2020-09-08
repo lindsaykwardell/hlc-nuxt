@@ -17,7 +17,7 @@
           allowfullscreen=""
         ></iframe>
       </div>
-      <div class="flex p-4 pt-16">
+      <div class="flex flex-col md:flex-row p-4 pt-16">
         <div class="col" role="Contact information">
           <h3 class="py-4">Address:</h3>
           <p class="whitespace-pre-line">
