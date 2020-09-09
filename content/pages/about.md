@@ -38,6 +38,41 @@ Together, we can work to create a sustainable community of wellness for all of u
 
 </flex>
 
+Healthy Living Family Medicine is proud to establish a Patient Care Fund. Individuals can donate to this fund to directly support health service costs for those who may be unable to afford payments. 100% of this donation will go towards patient care. We are working towards acquiring a non-profit status for the clinic. Currently donations to the Patient Care Fund are not tax-deductible. We appreciate your generosity in helping others receive unique, holistic, patient-centered care with Dr. Kerry.
+
+Want the unique care you receive at this clinic to be accessible to more people? Consider donating to this fund!
+
 <div class="my-8"><donate-button></donate-button></div>
+
+</section>
+
+<section>
+
+# Meet Dr. Kerry Schaefer
+
+#### A little something about the doctor
+
+<flex>
+
+<div class="md:w-3/5 flex-auto">
+
+Kerry grew up in beautiful Hood River. She headed across the country to attend college at Amherst College in Massachusetts where she majored in Theater and Dance. After working for Americorps in Philadelphia for a year and spending another year enjoying dance and travel she started medical school in Madison, Wisconsin.
+
+During medical school her long-standing expectation was confirmed, she wanted to be a family medicine doctor. She was very excited to make it back to the Pacific Northwest to start her family medicine residency at Providence Milwaukie Hospital.
+
+Following residency she worked in traditional family medicine clinic during which she discovered that she needed and wanted to find a new way to practice medicine. She did not like trying to see as many patients per day as possible. She started Healthy Living Family Medicine to provide her patients with longer appointment times and more personal treatment which she finds much more fulfilling. She wants to create an environment where her patients feel safe and happy coming to the doctor.
+
+She lives in southeast Portland with her partner Carl and their daughters Sydney and Rachel. She loves the outdoors. She currently spends most of her free time with her family or training in aerial dance.
+
+</div>
+
+<div class="md:w-2/5 flex-auto">
+
+![](dr-kerry-craniosacral-720x478.jpg)
+![](dr-kerry-newborn-care-720x683.jpg)
+
+</div>
+
+</flex>
 
 </section>

@@ -31,7 +31,7 @@
     }
 
     img {
-      @apply m-auto;
+      @apply m-auto p-3;
     }
 
     ul {

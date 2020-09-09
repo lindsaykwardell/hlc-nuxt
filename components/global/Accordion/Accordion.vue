@@ -1,9 +1,9 @@
 <template>
   <VToggle>
     <template v-slot:label>
-      <div class="flex">
+      <div class="flex items-center">
         <div v-if="icon" class="w-16">
-          <font-awesome-icon :icon="icon" size="lg" class="mr-4 text-black" />
+          <font-awesome-icon :icon="icon" size="lg" class="text-black" />
         </div>
         <div class="flex-grow">{{ title }}</div>
       </div>
@@ -65,7 +65,7 @@ export default {
   }
 
   & .vts-toggle__label {
-    @apply h-16 text-xl border-2 w-full text-left pl-4 font-bold;
+    @apply py-4 text-xl border-2 w-full text-left pl-4 font-bold;
     background: #f8f9fa;
     color: #225917;
 

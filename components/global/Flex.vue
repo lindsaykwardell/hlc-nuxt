@@ -6,7 +6,7 @@
 
 <style lang="postcss">
 .flex-child-1 {
-  & * {
+  & *:not(.flex-auto) {
     @apply flex-1;
   }
 }
