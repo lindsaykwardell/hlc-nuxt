@@ -16,6 +16,14 @@
     h5,
     h6 {
       @apply text-center;
+
+      &.text-left {
+        @apply text-left;
+      }
+
+      &.text-right {
+        @apply text-right;
+      }
     }
 
     table {

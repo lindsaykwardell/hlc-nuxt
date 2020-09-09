@@ -27,18 +27,6 @@
       </div>
       <Navbar :pages="_pages" :activePage="activePage" />
     </header>
-    <div v-if="activePage === '/'" class="hero overflow-hidden m-auto relative mt-8 shadow-lg">
-      <button
-        class="action-button bg-hlc-magenta-500 text-white p-3 rounded-lg text-left"
-      >
-        Become a Member!*<br />
-        <span class="text-xs italic" role="label">*We call patients members, too!</span>
-      </button>
-      <img
-        src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_1700,c_scale/v1598891063/IMG_3197_tebbix.jpg"
-        alt="Healthy Living Community hero image"
-      />
-    </div>
     <main>
       <slot />
     </main>

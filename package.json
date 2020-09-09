@@ -17,6 +17,7 @@
     "@nuxtjs/pwa": "^3.0.2",
     "autoprefixer": "^9.8.6",
     "cssnano": "^4.1.10",
+    "dayjs": "^1.8.35",
     "nuxt": "^2.14.0",
     "postcss-nested": "^4.2.3",
     "vuetensils": "^0.7.4"
