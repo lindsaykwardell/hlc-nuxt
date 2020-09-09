@@ -15,13 +15,13 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content
-  label: Content
+  path: content/pages
+  label: Pages
   create: all
   match: "**/*"
 - type: directory
-  path: content/pages
-  label: Pages
+  path: content
+  label: All Content
   create: all
   match: "**/*"
 upload_dir: uploads
