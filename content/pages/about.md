@@ -2,12 +2,12 @@
 title: About
 description: About Healthy Living Community
 template: StandardTemplate
-order: 0
----
+order: "0"
 
+---
 <section>
 
-# Healthy Living Community
+# Healthy Living Community is GREAT
 
 ### Together we can grow optimal health
 
