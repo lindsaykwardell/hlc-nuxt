@@ -22,12 +22,6 @@
       @apply w-full table-fixed text-center;
     }
 
-    .flex {
-      * {
-        @apply flex-1;
-      }
-    }
-
     a {
       @apply text-hlc-green-500 underline;
 

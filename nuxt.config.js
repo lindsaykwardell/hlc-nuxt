@@ -92,13 +92,7 @@ export default {
   },
   fontawesome: {
     icons: {
-      solid: [
-        "faHome",
-        "faEnvelope",
-        "faPhoneAlt",
-        "faExternalLinkAlt",
-        "faHeart"
-      ],
+      solid: true,
       brands: ["faFacebook"]
     }
   },

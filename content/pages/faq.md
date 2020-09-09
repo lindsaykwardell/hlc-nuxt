@@ -1,5 +1,14 @@
 ---
 title: FAQ
-template: StandardTemplate
+template: QaTemplate
 order: 5
+additionalContent: faq
 ---
+
+<section>
+
+# Frequently Asked Questions
+
+#### These FAQs are designed to provide a better understanding of how we work
+
+</section>
