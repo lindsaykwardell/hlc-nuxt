@@ -7,7 +7,7 @@ order: "0"
 ---
 <section>
 
-# Healthy Living Community is GREAT
+# Healthy Living Community
 
 ### Together we can grow optimal health
 
