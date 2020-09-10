@@ -24,6 +24,7 @@ sections:
   label: All Content
   create: all
   match: "**/*"
+  exclude: "{faq/**/*,services/**/*,pages/**/*}"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
