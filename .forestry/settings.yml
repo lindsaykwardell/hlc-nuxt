@@ -7,6 +7,20 @@ sections:
 - type: document
   path: content/home/home.md
   label: Home
+- type: directory
+  path: content/pages
+  label: Pages
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/home/notices
+  label: Notices
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/home/events
+  label: Events
+  create: all
   match: "**/*"
 - type: directory
   path: content/faq
@@ -16,11 +30,6 @@ sections:
 - type: directory
   path: content/services
   label: Services
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/pages
-  label: Pages
   create: all
   match: "**/*"
 - type: directory
