@@ -32,11 +32,6 @@ sections:
   label: Services
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: All Content
-  create: all
-  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
