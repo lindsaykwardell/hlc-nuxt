@@ -1,14 +1,12 @@
 <template>
   <Layout :pages="pages" activePage="/">
     <div class="hero overflow-hidden m-auto relative mt-8 shadow-lg">
-      <button
-        class="action-button bg-hlc-magenta-500 text-white p-3 rounded-lg text-left"
-      >
+      <CallToAction>
         {{ content.action.main }}<br />
         <span class="text-xs italic" role="label">{{
           content.action.subtitle
         }}</span>
-      </button>
+      </CallToAction>
       <img :src="content.hero" alt="Healthy Living Community hero image" />
     </div>
     <StandardTemplate>
@@ -18,7 +16,7 @@
       <div class="flex">
         <section class="w-1/4 mr-3">
           <h3>Upcoming Events</h3>
-          <img :src="events[0].image" />
+          <img :src="events[0].image" alt="Event image" />
           <hr />
           <h5 class="text-left">Title: {{ events[0].title }}</h5>
           <h5 class="text-left">When: {{ formatDate(events[0].date) }}</h5>
