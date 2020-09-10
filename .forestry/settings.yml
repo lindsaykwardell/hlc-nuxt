@@ -4,6 +4,24 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: content/home/home.md
+  label: Home
+- type: directory
+  path: content/pages
+  label: Pages
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/home/notices
+  label: Notices
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/home/events
+  label: Events
+  create: all
+  match: "**/*"
 - type: directory
   path: content/faq
   label: FAQ
@@ -15,16 +33,10 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/pages
-  label: Pages
-  create: all
-  match: "**/*"
-- type: directory
   path: content
   label: All Content
   create: all
   match: "**/*"
-  exclude: "{faq/**/*,services/**/*,pages/**/*}"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
