@@ -7,6 +7,10 @@ action:
 
 # Welcome to Healthy Living Community
 
+## Your Non-Profit Community Health Center in SE Portland
+
+<div class="py-5"></div><hr />
+
 ### Together we can grow optimal health
 
 At Healthy Living Family Medicine, our mission is to help promote wellness in our patients and their families. Our belief is that your body has a natural ability to create and sustain health. We provide patient-centered care that benefits the entire person. We want to find the root cause of symptoms, not only to alleviate them.

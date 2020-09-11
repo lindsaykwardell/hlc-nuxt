@@ -1,8 +1,8 @@
 <template>
   <Layout :pages="pages" activePage="/">
     <div class="hero overflow-hidden m-auto relative mt-8 shadow-lg">
-      <CallToAction>
-        {{ content.action.main }}<br />
+      <CallToAction class="bg-hlc-yellow-500 text-gray-900">
+        <span class="font-bold">{{ content.action.main }}</span><br />
         <span class="text-xs italic" role="label">{{
           content.action.subtitle
         }}</span>

@@ -95,11 +95,20 @@
             </a>
           </div>
         </div>
+        <div class="md:w-1/4 lg:w-1/5 p-3">
+          <h5 class="text-current">Additional Links</h5>
+          <div class="flex flex-col">
+            <a href="#" class="hover:underline">Meet the Board</a>
+            <a href="#" class="hover:underline">Board Minutes</a>
+            <a href="#" class="hover:underline">HLC Newsletter</a>
+          </div>
+        </div>
       </div>
       <div
-        class="flex flex-col md:flex-row justify-around mt-6 w-full text-hlc-green-300 bg-hlc-dark-green-600 py-4 p-2"
+        class="flex flex-col justify-center items-center mt-6 w-full text-hlc-green-300 bg-hlc-dark-green-600 py-4 p-2"
       >
-        <div>Copyright © Healthy Living Community</div>
+        <div class="pb-4">Copyright © Healthy Living Community, a 501c(3) non-profit</div>
+        <DonateButton />
       </div>
     </footer>
   </div>
