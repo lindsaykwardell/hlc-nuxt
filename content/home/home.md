@@ -9,7 +9,7 @@ action:
 
 ## Your Non-Profit Community Health Center in SE Portland
 
-<div class="py-5"></div><hr />
+<div class="py-5"><hr /></div>
 
 ### Together we can grow optimal health
 
