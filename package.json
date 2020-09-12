@@ -6,7 +6,9 @@
     "dev": "nuxt-ts",
     "build": "nuxt-ts build",
     "start": "nuxt-ts start",
-    "generate": "nuxt-ts generate"
+    "generate": "nuxt-ts generate",
+    "deploy": "yarn update-content && git checkout master && git pull && git merge development && git push origin master && git checkout development",
+    "update-content": "git checkout update-content && git pull && git checkout development && git merge update-content && git push origin development"
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
