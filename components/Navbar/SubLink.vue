@@ -4,7 +4,7 @@
     :href="href"
     target="_blank"
     :role="role"
-    class="font-mulish flex items-center px-3 text-hlc-green-400 lg:text-hlc-green-200 cursor-pointer select-none"
+    class="font-mulish flex items-center px-3 text-hlc-green-200 cursor-pointer select-none"
     :class="{
       'hover:text-hlc-green-100 transition duration-100': !separateHover
     }"

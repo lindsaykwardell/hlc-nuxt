@@ -1,27 +1,6 @@
 <template>
-  <div>
-    <header
-      class="flex 
-      flex-col 
-      lg:flex-row 
-      items-center 
-      px-5 
-      py-3 
-      lg:bg-gradient-to-l 
-      lg:via-hlc-green-500
-      lg:from-hlc-green-500
-      border-t-8
-      border-hlc-magenta-500"
-    >
-      <div class="lg:flex-grow">
-        <img
-          src="https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,c_scale/v1598891003/hlc-logo-stacked_of2z0g.png"
-          alt="Healthy Living Community Logo"
-          class="logo stacked lg:ml-12"
-        />
-      </div>
-      <Navbar :pages="_pages" :activePage="activePage" />
-    </header>
+  <div class="relative">
+    <Header :pages="_pages" :activePage="activePage" />
     <main>
       <slot />
     </main>
@@ -107,7 +86,9 @@
       <div
         class="flex flex-col justify-center items-center mt-6 w-full text-hlc-green-300 bg-hlc-dark-green-600 py-4 p-2"
       >
-        <div class="pb-4">Copyright © Healthy Living Community, a 501c(3) non-profit</div>
+        <div class="pb-4">
+          Copyright © Healthy Living Community, a 501c(3) non-profit
+        </div>
         <DonateButton />
       </div>
     </footer>
@@ -150,16 +131,6 @@ export default {
     z-index: 30;
     bottom: 30px;
     right: 50px;
-  }
-}
-
-header {
-  .logo {
-    width: 300px;
-
-    &.stacked {
-      width: 200px;
-    }
   }
 }
 
