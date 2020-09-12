@@ -3,13 +3,13 @@ title: About
 description: About Healthy Living Community
 template: StandardTemplate
 order: "0"
-
 ---
+
 <section>
 
 # Healthy Living Community
 
-### Together we can grow optimal health
+## Together we can grow optimal health
 
 In an ideal world, health insurance would increase the accessibility of health care. It would truly be an investment in people’s health. Unfortunately, I often hear from patients that this isn’t true. Increasingly, people are paying more per month, with higher deductibles and fewer benefits. This discourages people from getting the care they need.
 
@@ -48,12 +48,9 @@ Want the unique care you receive at this clinic to be accessible to more people?
 
 <section>
 
-# Meet Dr. Kerry Schaefer
-
-#### A little something about the doctor
+## Meet Dr. Kerry Schaefer
 
 <flex>
-
 <div class="md:w-3/5 flex-auto">
 
 Kerry grew up in beautiful Hood River. She headed across the country to attend college at Amherst College in Massachusetts where she majored in Theater and Dance. After working for Americorps in Philadelphia for a year and spending another year enjoying dance and travel she started medical school in Madison, Wisconsin.
@@ -65,14 +62,36 @@ Following residency she worked in traditional family medicine clinic during whic
 She lives in southeast Portland with her partner Carl and their daughters Sydney and Rachel. She loves the outdoors. She currently spends most of her free time with her family or training in aerial dance.
 
 </div>
-
 <div class="md:w-2/5 flex-auto">
 
 ![](dr-kerry-craniosacral-720x478.jpg)
 ![](dr-kerry-newborn-care-720x683.jpg)
 
 </div>
+</flex>
+</section>
 
+<section>
+
+## Meet Karen Davis
+
+<flex>
+<div class="md:w-2/5 flex-auto">
+
+![](KarenD19.jpg)
+
+</div>
+<div class="md:w-3/5 flex-auto">
+
+Meet Karen Davis, MS, CNS®, a clinical nutritionist who began her career in evidenced-based nutrition when she recognized the key role food choice plays in preventing many of the chronic diseases we face today.
+
+After completing her Master of Science in Nutrition, Karen went on to earn a national credential with the Board for Certification of Nutrition Specialists®. Karen participated in a therapeutic ketogenic diet training course through the American Nutrition Association and passed the exam to become a Certified Ketogenic Nutrition Specialist℠ which now enables her to specialize in this medically-supervised approach to disease management to provide safe and effective outcomes. The way in which Karen does this is through working with her client seeing them as a whole person, in a judgement-free environment, and starts wherever they may be in their journey. She helps establish attainable goals and specific recommendations, knowing that permanent change takes time; all the while providing coaching, education and a whole lot of encouragement. As a member of the Healthy Living Community team, Karen provides EAV (Vega) Food Sensitivity Testing as well as one-on-one nutritional counseling.
+
+Karen is the owner of Karen Davis Nutrition where she is able to bring her own unique approach to help and support her clients to make successful, long lasting changes to their food and lifestyle choices.
+
+When not nerding out on all things nutrition, you will find Karen working out, reading, and exploring the beautiful Pacific Northwest with her rescue dog, Lucy.
+
+</div>
 </flex>
 
 </section>
