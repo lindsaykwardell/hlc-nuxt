@@ -12,7 +12,7 @@ contact:
   - name: Fax
     value: 1-503-376-3790
   - name: Email
-    value: drkerry@healthylivingfamilymedicine.com
+    value: drkerry@hlcomm.org
 hours:
   - title: Dr. Kerry's Hours
     description: Dr. Kerry is available for patient appointments during the following hours

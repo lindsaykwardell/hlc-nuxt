@@ -21,7 +21,7 @@
       class="flex flex-col justify-center items-center mt-6 bg-hlc-dark-green-500 border-t-8 border-hlc-blue-500 text-hlc-green-200"
     >
       <div class="flex flex-col md:flex-row justify-around w-full py-4">
-        <div class="md:w-1/4 lg:w-1/5 p-3">
+        <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
           <h5 class="text-current">Access the Patient Portal</h5>
           <p class="pb-8">
             Convenient 24/7 access to your healthcare information and
@@ -34,7 +34,7 @@
             Patient Portal
           </a>
         </div>
-        <div class="md:w-1/4 lg:w-1/5 p-3">
+        <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
           <h5 class="text-current">Purchase Supplements</h5>
           <p class="pb-8">
             Visit Dr. Kerry's Supplements page to find approved options.
@@ -46,7 +46,7 @@
             Supplements
           </a>
         </div>
-        <div class="md:w-1/4 lg:w-1/5 p-3">
+        <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
           <h5 class="text-current">Social Media</h5>
           <p class="pb-8">
             Come join our online community!
@@ -74,7 +74,7 @@
             </a>
           </div>
         </div>
-        <div class="md:w-1/4 lg:w-1/5 p-3">
+        <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
           <h5 class="text-current">Additional Links</h5>
           <div class="flex flex-col">
             <a href="#" class="hover:underline">Meet the Board</a>
@@ -86,8 +86,8 @@
       <div
         class="flex flex-col justify-center items-center mt-6 w-full text-hlc-green-300 bg-hlc-dark-green-600 py-4 p-2"
       >
-        <div class="pb-4">
-          Copyright © Healthy Living Community, a 501c(3) non-profit
+        <div class="pb-4 flex flex-col md:flex-row text-center">
+          <span class="md:mr-2">Copyright © Healthy Living Community,</span> <span>a 501c(3) non-profit</span>
         </div>
         <DonateButton />
       </div>

@@ -4,7 +4,8 @@
       <nuxt-link
         class="w-full lg:w-auto text-xl px-4 py-2 mx-2 font-mulish rounded-lg hover:shadow transition duration-100 hover:bg-hlc-green-600 lg:text-hlc-green-100"
         :class="{
-          'underline bg-hlc-green-700 text-hlc-green-100': activePage === page.slug
+          'underline bg-hlc-green-700 text-hlc-green-100': activePage === page.slug,
+          'text-hlc-dark-green-800': activePage !== page.slug
         }"
         v-for="page in pages"
         :key="page.slug"
