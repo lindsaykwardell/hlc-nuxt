@@ -9,7 +9,9 @@ order: "0"
 
 # Healthy Living Community
 
-## Creating health through building community, education, and affordable holistic care 
+## Creating health through community building, education, and affordable holistic care 
+
+## Together we can grow optimal health
 
 In an ideal world, health insurance would improve the accessibility of health care. It would truly be an investment in people’s health. But increasingly, people are paying more per month, with higher deductibles and fewer benefits. This discourages people from getting the care they need.
 
