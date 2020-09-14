@@ -9,9 +9,9 @@ order: "0"
 
 # Healthy Living Community
 
-## Together we can grow optimal health
+## Creating health through building community, education, and affordable holistic care 
 
- In an ideal world, health insurance would improve the accessibility of health care. It would truly be an investment in people’s health. But increasingly, people are paying more per month, with higher deductibles and fewer benefits. This discourages people from getting the care they need.
+In an ideal world, health insurance would improve the accessibility of health care. It would truly be an investment in people’s health. But increasingly, people are paying more per month, with higher deductibles and fewer benefits. This discourages people from getting the care they need.
 
 In this world of increasing health insurance costs, limited insurance coverage, and fluctuating economic stability, how do we as a community come together to support health and wellness? How do we create a system that ensures access to a trusted provider who will take the time to support the well-being of our families no matter their financial means?
 
@@ -41,8 +41,6 @@ With this healthcare model, people are able to make meaningful investments in th
 </flex>
 
 ### **HLC is a 501c3 nonprofit!**
-
-Creating 
 
 This means any donation you make is tax deductible. All donations go directly into our Patient Care Fund, which is used to cover the cost of healthcare services for members challenged by healthcare costs.
 
