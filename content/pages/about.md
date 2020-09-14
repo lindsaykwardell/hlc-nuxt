@@ -3,29 +3,31 @@ title: About
 description: About Healthy Living Community
 template: StandardTemplate
 order: "0"
----
 
+---
 <section>
 
 # Healthy Living Community
 
 ## Together we can grow optimal health
 
-In an ideal world, health insurance would increase the accessibility of health care. It would truly be an investment in people’s health. Unfortunately, I often hear from patients that this isn’t true. Increasingly, people are paying more per month, with higher deductibles and fewer benefits. This discourages people from getting the care they need.
+ In an ideal world, health insurance would improve the accessibility of health care. It would truly be an investment in people’s health. But increasingly, people are paying more per month, with higher deductibles and fewer benefits. This discourages people from getting the care they need.
 
-Additionally several insurance companies have limited the providers allowed to be in the network for many of their plans. This means that patients either pay full price to stay with their preferred provider, or are forced to see new providers who don’t know their history and with whom they don’t have a relationship.
+In this world of increasing health insurance costs, limited insurance coverage, and fluctuating economic stability, how do we as a community come together to support health and wellness? How do we create a system that ensures access to a trusted provider who will take the time to support the well-being of our families no matter their financial means?
 
-In this world of increasing health insurance costs, limited insurance coverage, and fluctuating economic stability, how do we as a community come together to support health and wellness? How do we create a system that ensures access to a trusted provider who will take the time to support the well-being of our families--while also ensuring the same access to quality care for families who do not have the financial means?
+Healthy Living Community is the answer to these questions.
 
-The transition of Healthy Living Family Medicine to a new care model is my answer to these questions.
+HLC has integrated a model of care that offers a low cost sliding-scale membership fee and “pay what you can” per appointment. We no longer contract with insurance, with the exception of OHP*. We understand that many will still utilize insurance for their specific health needs. At HLC, individuals with insurance will receive their standard insurance coverage for all labs, imaging, prescriptions and referrals to other providers. Additionally, insurance companies often try to dictate what providers you see and what care you receive. At HLC, we believe you should have autonomy in deciding what provider and care best meet your health needs.
 
-On July 1st 2019, Healthy Living Family Medicine integrated a new model of care that offers a low cost sliding-scale monthly membership fee and a “pay what you can” per appointment. We no longer be contract with or bill insurance. It is important to me to find a way to support my patients outside of the control of the insurance companies. Please note, individuals with insurance will still receive their standard insurance coverage for all lab testing, imaging, prescriptions and referrals to other providers.
+We are committed to cost transparency, and appreciate that this model of care provides flexibility to our members--allowing them to make payments based on their current financial situation. Those who are able to pay a higher monthly membership, or the full cost for an appointment, will help offset the cost for individuals who may be unable to afford healthcare at this time. Our goal is to make Healthy Living Community’s unique functional healthcare accessible to all.
 
-I believe my patients will find this new model empowering and supportive for themselves and their family's health. Patients will be in control and able to choose what they spend on their health care and have complete transparency for costs as well as the clinic's needs. Patients will not have to wonder or wait to find out what insurance may or may not cover. Patients will continue to have access to the consistent and comprehensive care that Dr. Kerry provides, and also have access to a broad range of new community services such as group classes in the studio and our new infrared sauna. I believe that this community-based model will be nourishing for my patients' holistic health and aligned with their diverse financial needs.
+At Healthy Living Community, we believe that healthy communities grow healthy individuals. We foster growth in our community by holding regular events (classes, workshops, gatherings), establishing platforms for communication among our members, and ensuring our clinic is an affirming and supportive place for all. We also are also establishing connections with local organizations to build a supportive network of health.
 
-Many individuals and families already face a variety of financial challenges, and now are being called on to pay more. It is not my intention to financially burden you. I trust my patients to do the work necessary to clarify how much they can pay, with the hope that they keep in mind that there are individuals and families who have less. Those who choose to pay at the higher end of the monthly membership cost, or full cost for an appointment, will help offset the costs for those who may be unable to afford healthcare at this time. I aim to create a model of primary care that will allow me to serve my patients in a way that is affordable and sustainable. My goal is that this new model will allow patients to feel that they are able to make a true and more meaningful investment in their, and their community’s, health.
+With this healthcare model, people are able to make meaningful investments in their, and their community’s, health. Together, we can work to create a sustainable community of wellness for all of us here at Health Living Community. Let’s demonstrate to other health communities that a different accessible approach that provides superior care is possible.
 
-Together, we can work to create a sustainable community of wellness for all of us here at Healthy Living Family Medicine. Let’s demonstrate to other health communities that a different approach that provides superior care is possible.
+***
+
+\*We listened to the feedback of our community members and realized that not accepting OHP (Oregon’s Medicaid program) was a barrier to many community members who are unable to afford healthcare costs. In taking OHP we hope to ensure that functional, holistic, healthcare services are more accessible.
 
 <flex>
 
@@ -38,9 +40,13 @@ Together, we can work to create a sustainable community of wellness for all of u
 
 </flex>
 
-Healthy Living Family Medicine is proud to establish a Patient Care Fund. Individuals can donate to this fund to directly support health service costs for those who may be unable to afford payments. 100% of this donation will go towards patient care. We are working towards acquiring a non-profit status for the clinic. Currently donations to the Patient Care Fund are not tax-deductible. We appreciate your generosity in helping others receive unique, holistic, patient-centered care with Dr. Kerry.
+### **HLC is a 501c3 nonprofit!**
 
-Want the unique care you receive at this clinic to be accessible to more people? Consider donating to this fund!
+Creating 
+
+This means any donation you make is tax deductible. All donations go directly into our Patient Care Fund, which is used to cover the cost of healthcare services for members challenged by healthcare costs.
+
+We have established a Board of Directors to help guide the trajectory of HLC and ensure our mission is alive in everything we do. You can meet our amazing Board members HERE (insert LINK to Board member profiles).
 
 <div class="my-8"><donate-button></donate-button></div>
 
