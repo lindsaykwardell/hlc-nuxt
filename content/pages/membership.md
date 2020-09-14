@@ -10,9 +10,9 @@ order: "3"
 
 When you become a Healthy Living Community member, you are joining a supportive community network of health that will holistically support you in achieving your health goals. 
 
-## As an HLC member, you get:
+We fundamentally value each and every one of our members and the individual talents/gifts/ideas/worldview they bring to our community. 
 
-We call our patients "members"
+## Joining our community has numerous benefits! As an HLC member, you get:
 
 * Our calm, welcoming clinic environment.
 * The ability to select the duration of your appointment to meet your healthcare needs
