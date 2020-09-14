@@ -25,21 +25,21 @@ To learn more about our model of care and the community we’re building, read m
 
 ### At HLC We Believe 
 
-#### _Healthcare is a human right_ 
+**_Healthcare is a human right_**
 
 Every person should be able to access the holistic care they need and deserve. Our sliding scale model works to provide quality care at an affordable price, increasing care accessibility while moving away from the healthcare delivery system that often limits the care people are able to receive.
 
-#### _Health is holistic_ 
+**_Health is holistic_**
 
 Mind, body, and spirit-- health encompasses all aspects of our being and at HLC we ensure that the care we deliver affirms that
 
-#### _Healthcare should be a conversation, and there is no "one size fits all" model for health_
+**_Healthcare should be a conversation, and there is no "one size fits all" model for health_**
 
 We have a safe, affirming, clinic space and encourage open dialogue about health with your provider.
 
 Our healthcare providers will always meet you where you are, educate, and discuss various treatment options (be it medication, supplements, acupuncture, naturopathic care, other modalities) to find an approach that best supports YOU.
 
-#### _Healthy communities grow healthy individuals_
+**_Healthy communities grow healthy individuals_**
 
 That’s why at HLC we not only support our patient’s individually, but foster community growth and connection to create a network of health and well-being
 
