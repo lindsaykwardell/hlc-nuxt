@@ -43,8 +43,12 @@ You also have the option to request a superbill to submit to your insurance for 
 
 Read more about this payment model HERE (Link to FAQ). 
 
-## Meet some of our members:
+## Meet some of our community members:
 
-## This is how you become a member
+## How to join our community
+
+It's easy! Just call the clinic number (971-231-4536) and express your interest for becoming a member. 
+
+After calling, you will be asked to complete a Membership Form which must be submitted prior to scheduling an appointment for you/a family member. 
 
 </section>
