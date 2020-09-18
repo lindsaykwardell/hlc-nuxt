@@ -1,0 +1,13 @@
+---
+label: FAQ
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: order
+  label: order
+- type: list
+  name: icon
+  label: icon
