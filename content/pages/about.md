@@ -65,13 +65,14 @@ During medical school her long-standing expectation was confirmed, she wanted to
 
 Following residency she worked in traditional family medicine clinic during which she discovered that she needed and wanted to find a new way to practice medicine. She did not like trying to see as many patients per day as possible. She started Healthy Living Family Medicine to provide her patients with longer appointment times and more personal treatment which she finds much more fulfilling. She wants to create an environment where her patients feel safe and happy coming to the doctor.
 
-She lives in southeast Portland with her partner Carl and their daughters Sydney and Rachel. She loves the outdoors. She currently spends most of her free time with her family or training in aerial dance.
+In July 2019, Kerry transitioned the clinic to Healthy Living Community, a nonprofit focused on creating a healthy community in which its members can create ideal health and have access to affordable holistic and functional care. 
+
+She lives in southeast Portland in with her partner Carl, their daughters Sydney and Rachel. She loves the outdoors. She currently spends most of her free time with her family or training in aerial dance.
 
 </div>
 <div class="md:w-2/5 flex-auto">
 
-![](dr-kerry-craniosacral-720x478.jpg)
-![](dr-kerry-newborn-care-720x683.jpg)
+![](dr-kerry.jpeg)
 
 </div>
 </flex>

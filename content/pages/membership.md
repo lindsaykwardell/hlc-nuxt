@@ -43,7 +43,15 @@ You also have the option to request a superbill to submit to your insurance for 
 
 Read more about this payment model HERE (Link to FAQ). 
 
+</section>
+
+<section>
+
 ## Meet some of our community members:
+
+</section>
+
+<section>
 
 ## How to join our community
 
