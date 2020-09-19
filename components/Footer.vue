@@ -59,8 +59,12 @@
       <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
         <h5 class="text-current">Additional Links</h5>
         <div class="flex flex-col">
-          <a href="#" class="hover:underline">Meet the Board</a>
-          <a href="#" class="hover:underline">Board Minutes</a>
+          <nuxt-link to="/board" class="hover:underline"
+            >Meet the Board</nuxt-link
+          >
+          <nuxt-link to="/board-minutes" class="hover:underline"
+            >Board Minutes</nuxt-link
+          >
           <a href="#" class="hover:underline">HLC Newsletter</a>
         </div>
       </div>

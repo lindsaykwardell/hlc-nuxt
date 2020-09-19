@@ -43,7 +43,9 @@ export default {
     }
   },
   async asyncData({ $content, params }) {
-    const pages = await $content("pages").fetch();
+    const pages = await $content("pages")
+      .where({ order: { $gte: 0 } })
+      .fetch();
     const content = await $content("home/home").fetch();
     const events = await $content("home/events").fetch();
     const notices = await $content("home/notices").fetch();
