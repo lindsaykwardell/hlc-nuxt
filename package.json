@@ -11,10 +11,12 @@
     "update-content": "git checkout update-content && git pull && git merge development && git checkout development && git merge update-content && git push origin development"
   },
   "dependencies": {
+    "@braid/vue-formulate": "^2.4.4",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@nuxt/content": "^1.5.0",
     "@nuxt/typescript-runtime": "^1.0.0",
+    "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/pwa": "^3.0.2",
     "autoprefixer": "^9.8.6",
