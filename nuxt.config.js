@@ -41,7 +41,7 @@ export default {
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
    */
-  plugins: ["~/plugins/constant.js"],
+  plugins: ["~/plugins/constant.js", "~/plugins/vue-formulate.js"],
   /*
    ** Auto import components
    ** See https://nuxtjs.org/api/configuration-components
@@ -62,7 +62,8 @@ export default {
   modules: [
     // Doc: https://github.com/nuxt/content
     "@nuxt/content",
-    "@nuxtjs/pwa"
+    "@nuxtjs/pwa",
+    "@nuxtjs/axios"
   ],
   /*
    ** Content module configuration
@@ -96,5 +97,5 @@ export default {
       brands: true
     }
   },
-  telemetry: false
+  telemetry: true
 };
