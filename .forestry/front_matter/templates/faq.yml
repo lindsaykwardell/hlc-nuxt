@@ -11,3 +11,5 @@ fields:
 - type: list
   name: icon
   label: icon
+pages:
+- content/faq/why-has-hlc-decided-to-not-contract-with-insurance-companies.md
