@@ -23,7 +23,9 @@ We are a registered 501(c)(3) nonprofit that offers affordable patient-centered 
 
 To learn more about our model of care and the community we’re building, read more About Us \[insert hyperlink to About page\].
 
-### At HLC We Believe 
+</section>
+
+### At HLC We Believe
 
 **_Healthcare is a human right_**
 
