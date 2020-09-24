@@ -11,3 +11,17 @@ fields:
 - type: list
   name: icon
   label: icon
+pages:
+- content/faq/can-i-request-a-superbill.md
+- content/faq/can-i-use-my-fsa-hsa-to-pay-for-appointments.md
+- content/faq/how-much-can-i-expect-to-pay-at-appointments.md
+- content/faq/how-much-is-the-full-cost-for-an-appointment.md
+- content/faq/how-much-will-monthly-membership-cost.md
+- content/faq/i-m-struggling-to-determine-what-sliding-scale-level-is-right-for-me-my-family-any-advice.md
+- content/faq/what-are-the-benefits-of-this-model-of-care.md
+- content/faq/what-are-the-membership-policies.md
+- content/faq/what-do-i-get-with-my-hlc-membership.md
+- content/faq/what-if-i-have-insurance-will-i-be-able-to-use-my-coverage-for-anything.md
+- content/faq/what-is-the-patient-care-fund.md
+- content/faq/what-sliding-scale-payment-level-is-right-for-me.md
+- content/faq/why-has-hlc-decided-to-not-contract-with-insurance-companies.md
