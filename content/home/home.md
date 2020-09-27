@@ -5,6 +5,8 @@ action:
   subtitle: We call patients members, too!
 
 ---
+<section>
+
 # Welcome to Healthy Living Community
 
 ## Your Non-Profit Community Health Center in SE Portland

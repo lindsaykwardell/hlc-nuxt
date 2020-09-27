@@ -11,18 +11,18 @@
       <img :src="content.hero" alt="Healthy Living Community hero image" />
     </div>
     <StandardTemplate>
-      <section>
-        <nuxt-content :document="content" />
-      </section>
+      <nuxt-content :document="content" />
       <div class="flex flex-col md:flex-row">
-        <section class="w-full md:w-1/4 md:mr-3">
+        <aside class="w-full md:w-1/4 md:mr-3 bg-white shadow mb-4">
           <h3>Upcoming Events</h3>
           <img :src="events[0].image" alt="Event image" />
           <hr />
           <h5 class="text-left">Title: {{ events[0].title }}</h5>
           <h5 class="text-left">When: {{ formatDate(events[0].date) }}</h5>
-          <nuxt-content :document="events[0]" />
-        </section>
+          <div class="p-4">
+            <nuxt-content :document="events[0]" />
+          </div>
+        </aside>
         <div class="w-full md:w-3/4 md:ml-3">
           <section v-for="notice in notices" :key="notice.slug">
             <nuxt-content :document="notice" />
