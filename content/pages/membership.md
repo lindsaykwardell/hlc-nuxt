@@ -59,8 +59,8 @@ Read more about this payment model HERE (Link to FAQ).
 
 ## How to join our community
 
-It's easy! Just call the clinic number (971-231-4536) and express your interest for becoming a member.
+It's easy! Just call the clinic number (971-231-4536) or email pearl@healthylivingfamilymedicine.com. You can also push the button below!
 
-After calling, you will be asked to complete a Membership Form which must be submitted prior to scheduling an appointment for you/a family member. Membership must be renewed at the end of each year by completing a new Membership Form.
+After connecting with us, you will be asked to complete a Membership Form which must be submitted prior to scheduling an appointment for you/a family member. Membership must be renewed at the end of each year by completing a new Membership Form.
 
 </section>
