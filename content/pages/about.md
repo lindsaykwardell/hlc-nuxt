@@ -90,9 +90,11 @@ She lives in southeast Portland in with her partner Carl, their daughters Sydney
 
 <flex>
 <div class="md:w-2/5 flex-auto">
+<div class="portrait">
 
 ![](KarenD19.jpg)
 
+</div>
 </div>
 <div class="md:w-3/5 flex-auto">
 
