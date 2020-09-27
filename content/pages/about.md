@@ -17,30 +17,36 @@ In an ideal world, health insurance would improve the accessibility of health ca
 
 In this world of increasing health insurance costs, limited insurance coverage, and fluctuating economic stability, how do we as a community come together to support health and wellness? How do we create a system that ensures access to a trusted provider who will take the time to support the well-being of our families no matter their financial means?
 
-Healthy Living Community is the answer to these questions.
+<div class="float-left">
+
+##### [Read our Booklet: ![](clinic-change-booklet250x323.jpg)](healthy-living-family-medicine-booklet.pdf)
+
+</div>
+
+**Healthy Living Community is the answer to these questions.**
 
 HLC has integrated a model of care that offers a low cost sliding-scale membership fee and “pay what you can” per appointment. We no longer contract with insurance, with the exception of OHP*. We understand that many will still utilize insurance for their specific health needs. At HLC, individuals with insurance will receive their standard insurance coverage for all labs, imaging, prescriptions and referrals to other providers. Additionally, insurance companies often try to dictate what providers you see and what care you receive. At HLC, we believe you should have autonomy in deciding what provider and care best meet your health needs.
 
 We are committed to cost transparency, and appreciate that this model of care provides flexibility to our members--allowing them to make payments based on their current financial situation. Those who are able to pay a higher monthly membership, or the full cost for an appointment, will help offset the cost for individuals who may be unable to afford healthcare at this time. Our goal is to make Healthy Living Community’s unique functional healthcare accessible to all.
 
-At Healthy Living Community, we believe that healthy communities grow healthy individuals. We foster growth in our community by holding regular events (classes, workshops, gatherings), establishing platforms for communication among our members, and ensuring our clinic is an affirming and supportive place for all. We also are also establishing connections with local organizations to build a supportive network of health.
+<div class="float-right">
+
+##### [Read our Flow Sheet: ![](new-model-flow-sheet-250x323.jpg)](healthy-living-family-medicine-flow-sheet.pdf)
+
+</div>
+
+**At Healthy Living Community, we believe that healthy communities grow healthy individuals.** We foster growth in our community by holding regular events (classes, workshops, gatherings), establishing platforms for communication among our members, and ensuring our clinic is an affirming and supportive place for all. We also are also establishing connections with local organizations to build a supportive network of health.
 
 With this healthcare model, people are able to make meaningful investments in their, and their community’s, health. Together, we can work to create a sustainable community of wellness for all of us here at Health Living Community. Let’s demonstrate to other health communities that a different accessible approach that provides superior care is possible.
+
+<div class="clear-both"></div>
 
 ***
 
 \*We listened to the feedback of our community members and realized that not accepting OHP (Oregon’s Medicaid program) was a barrier to many community members who are unable to afford healthcare costs. In taking OHP we hope to ensure that functional, holistic, healthcare services are more accessible.
 
-<flex>
-
-##### [Read our Booklet: ![](clinic-change-booklet250x323.jpg)](healthy-living-family-medicine-booklet.pdf)
-
-##### [Read our Flow Sheet: ![](new-model-flow-sheet-250x323.jpg)](healthy-living-family-medicine-flow-sheet.pdf)
-
 [READ THE FAQ →](faq) <br />
 [READ THE POLICIES →](policies)
-
-</flex>
 
 ### **HLC is a 501c3 nonprofit!**
 

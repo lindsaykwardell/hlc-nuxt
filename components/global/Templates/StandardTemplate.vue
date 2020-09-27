@@ -7,7 +7,7 @@
 <style lang="postcss">
 .template {
   section {
-    @apply bg-white shadow p-3 mb-4;
+    @apply bg-white shadow p-8 mb-4;
 
     h1,
     h2,
@@ -15,7 +15,7 @@
     h4,
     h5,
     h6 {
-      @apply text-center;
+      @apply text-center px-8;
 
       &.text-left {
         @apply text-left;
