@@ -8,9 +8,9 @@ order: "3"
 
 # Membership is the BEST
 
-When you become a Healthy Living Community member, you are joining a supportive community network of health that will holistically support you in achieving your health goals. 
+When you become a Healthy Living Community member, you are joining a supportive community network of health that will holistically support you in achieving your health goals.
 
-We fundamentally value each and every one of our members and the individual talents/gifts/ideas/worldview they bring to our community. 
+We fundamentally value each and every one of our members and the individual talents/gifts/ideas/worldview they bring to our community.
 
 ## Joining our community has numerous benefits! As an HLC member, you get:
 
@@ -19,7 +19,11 @@ We fundamentally value each and every one of our members and the individual tale
 * 24/7 access to Dr. Kerry via phone or portal messaging.
 * Reduced cost for the care resources: supplements, essential oils, etc. that we love to provide for you.
 * Frequent community events/classes that build connection and grow a healthy network of support
-* Discounts/offerings for health services or items from our local partner organizations 
+* Discounts/offerings for health services or items from our local partner organizations
+
+</section>
+
+<section>
 
 ## How membership works:
 
@@ -39,16 +43,24 @@ When you, or a family member, comes in for an appointment you will be asked to _
 
 We are committed to being transparent regarding our actual cost for services (see our Services Cost List--INSERT LINK). You have the option to pay for an appointment in full OR decide on a payment amount that feels doable given your financial situation. Our Services Cost listings are meant to inform, not dictate, what you can pay.
 
-You also have the option to request a superbill to submit to your insurance for appointment cost reimbursement. (We will still bill your insurance for any labs, imaging, and prescriptions). 
+You also have the option to request a superbill to submit to your insurance for appointment cost reimbursement. (We will still bill your insurance for any labs, imaging, and prescriptions).
 
-Read more about this payment model HERE (Link to FAQ). 
+Read more about this payment model HERE (Link to FAQ).
+
+</section>
+
+<section>
 
 ## Meet some of our community members:
 
+</section>
+
+<section>
+
 ## How to join our community
 
-It's easy! Just call the clinic number (971-231-4536) and express your interest for becoming a member. 
+It's easy! Just call the clinic number (971-231-4536) and express your interest for becoming a member.
 
-After calling, you will be asked to complete a Membership Form which must be submitted prior to scheduling an appointment for you/a family member. Membership must be renewed at the end of each year by completing a new Membership Form. 
+After calling, you will be asked to complete a Membership Form which must be submitted prior to scheduling an appointment for you/a family member. Membership must be renewed at the end of each year by completing a new Membership Form.
 
 </section>
