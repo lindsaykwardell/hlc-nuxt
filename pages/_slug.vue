@@ -9,7 +9,9 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const pages = await $content("pages").fetch();
+    const pages = await $content("pages")
+      .where({ order: { $gte: 0 } })
+      .fetch();
     const page = await $content(`pages/${params.slug}`).fetch();
     const addlContent = page.additionalContent
       ? await $content(page.additionalContent).fetch()
