@@ -1,5 +1,5 @@
 <template>
-  <Layout :pages="pages" activePage="/become-a-member">
+  <Layout :pages="pages" activePage="/become-a-member" hideCallToAction>
     <StandardTemplate>
       <section>
         <h1>Become a Member</h1>

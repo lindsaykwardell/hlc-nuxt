@@ -5,6 +5,7 @@
       <slot />
     </main>
     <aside
+      v-if="!hideCallToAction"
       class="flex flex-col lg:flex-row justify-center items-center p-5 container bg-hlc-magenta-500 shadow-inner"
     >
       <img
@@ -41,6 +42,10 @@ export default {
     activePage: {
       type: String,
       default: "/"
+    },
+    hideCallToAction: {
+      type: Boolean,
+      default: false
     }
   },
   computed: {
