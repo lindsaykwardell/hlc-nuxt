@@ -25,6 +25,8 @@ To learn more about our model of care and the community we’re building, read m
 
 </section>
 
+<section>
+
 ### At HLC We Believe
 
 **_Healthcare is a human right_**
