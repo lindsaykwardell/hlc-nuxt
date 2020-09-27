@@ -7,13 +7,10 @@
       lg:flex-row 
       lg:items-center 
       px-5 
-      py-3 
-      bg-hlc-green-500
-      lg:bg-transparent
-      lg:bg-gradient-to-l 
-      lg:via-hlc-green-500
-      lg:from-hlc-green-500
+      py-3
+      shadow-lg 
       border-t-8
+      bg-gray-300
       border-hlc-magenta-500"
       >
         <div class="lg:flex-grow">
@@ -27,7 +24,7 @@
             </div>
             <div v-if="isMd(width)" class="flex-shrink">
               <button @click="showMenu = !showMenu">
-                <font-awesome-icon icon="bars" size="2x" class="text-white" />
+                <font-awesome-icon icon="bars" size="2x" />
               </button>
             </div>
           </div>
@@ -62,9 +59,10 @@ export default {
   }),
   methods: {
     logoSrc(width) {
-      return this.isMd(width)
-        ? "hlc-logo-horiz-white.png"
-        : "https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,c_scale/v1598891003/hlc-logo-stacked_of2z0g.png";
+      // return this.isMd(width)
+      //   ? "hlc-logo-horiz-white.png"
+      //   : 
+        return "https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,c_scale/v1598891003/hlc-logo-stacked_of2z0g.png";
     },
     isMd(width) {
       const res = width <= this.$constant.md;

@@ -1,13 +1,13 @@
 <template>
   <Layout :pages="pages" activePage="/">
     <div class="hero overflow-hidden m-auto relative mt-8 shadow-lg">
-      <CallToAction class="bg-hlc-green-500 text-white">
+      <!-- <CallToAction class="bg-hlc-green-500 text-white">
         <span>{{ content.action.main }}</span
         ><br />
         <span class="text-xs italic" role="label">{{
           content.action.subtitle
         }}</span>
-      </CallToAction>
+      </CallToAction> -->
       <img :src="content.hero" alt="Healthy Living Community hero image" />
     </div>
     <StandardTemplate>
