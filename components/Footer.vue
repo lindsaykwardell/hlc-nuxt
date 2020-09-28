@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="flex flex-col justify-center items-center mt-6 bg-hlc-dark-green-500 border-t-8 border-hlc-yellow-500 text-hlc-green-200"
+    class="flex flex-col justify-center items-center mt-6 bg-hlc-dark-green-500 border-t-8 border-hlc-yellow-500 text-hlc-green-100"
   >
     <div class="flex flex-col md:flex-row justify-around w-full py-4">
       <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
