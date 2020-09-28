@@ -11,7 +11,9 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const pages = await $content("pages").fetch();
+        const pages = await $content("pages")
+      .where({ order: { $gte: 0 } })
+      .fetch();
 
     return {
       pages
