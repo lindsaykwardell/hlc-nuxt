@@ -53,46 +53,5 @@ export default {
       pages
     };
   },
-  data: () => ({
-    formStatus: STATUS_IDLE
-  }),
-  computed: {
-    submitted() {
-      return (
-        this.formStatus !== STATUS_IDLE && this.formStatus !== STATUS_ERROR
-      );
-    },
-    hasError() {
-      return this.formStatus === STATUS_ERROR;
-    },
-    hasSuccess() {
-      return this.formStatus === STATUS_SUBMITTED;
-    },
-    showSpinner() {
-      return this.formStatus === STATUS_WAITING;
-    }
-  },
-  methods: {
-    async submitMemberForm(data) {
-      const formData = new FormData();
-
-      Object.keys(data).forEach(key => {
-        formData.append(key, data[key]);
-      });
-
-      this.formStatus = STATUS_WAITING;
-
-      try {
-        await this.$axios.post("/", formData);
-
-        this.formStatus = STATUS_SUBMITTED;
-      } catch (err) {
-        this.formStatus = STATUS_ERROR;
-      }
-    }
-  },
-  components: {
-    VAlert
-  }
 };
 </script>
