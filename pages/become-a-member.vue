@@ -27,9 +27,6 @@
             value="Request Membership Form"
           />
         </form>
-        <ClientOnly>
-          <VAlert v-if="hasSuccess">Your request has been submitted!</VAlert>
-        </ClientOnly>
       </section>
     </StandardTemplate>
   </Layout>
