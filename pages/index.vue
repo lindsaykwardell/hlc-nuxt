@@ -17,8 +17,8 @@
           <h3>Upcoming Events</h3>
           <img :src="events[0].image" alt="Event image" />
           <hr />
-          <h5 class="text-left">Title: {{ events[0].title }}</h5>
-          <h5 class="text-left">When: {{ formatDate(events[0].date) }}</h5>
+          <h5 class="text-left px-2">Title: {{ events[0].title }}</h5>
+          <h5 class="text-left px-2">When: {{ formatDate(events[0].date) }}</h5>
           <div class="p-4">
             <nuxt-content :document="events[0]" />
           </div>

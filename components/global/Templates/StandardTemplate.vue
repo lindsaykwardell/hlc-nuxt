@@ -16,13 +16,20 @@
     }
   }
 
+  section,
+  aside {
+    p {
+      @apply text-justify;
+    }
+  }
+
   h1,
   h2,
   h3,
   h4,
   h5,
   h6 {
-    @apply text-center px-8;
+    @apply text-center;
 
     &.text-left {
       @apply text-left;

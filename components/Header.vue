@@ -8,6 +8,7 @@
       lg:items-center 
       px-5 
       py-3
+      mb-6
       shadow-lg 
       border-t-8
       bg-gray-300
@@ -17,7 +18,7 @@
           <div class="flex mb-4 lg:mb-0 items-center">
             <div class="flex-grow">
               <img
-                :src="logoSrc(width)"
+                src="hlc-logo-stacked-color.svg"
                 alt="Healthy Living Community Logo"
                 class="logo stacked lg:ml-12"
               />
@@ -58,12 +59,6 @@ export default {
     prevMd: false
   }),
   methods: {
-    logoSrc(width) {
-      // return this.isMd(width)
-      //   ? "hlc-logo-horiz-white.png"
-      //   : 
-        return "https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_200,c_scale/v1598891003/hlc-logo-stacked_of2z0g.png";
-    },
     isMd(width) {
       const res = width <= this.$constant.md;
 

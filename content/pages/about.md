@@ -62,13 +62,12 @@ We have established a Board of Directors to help guide the trajectory of HLC and
 
 ## Meet Dr. Kerry Schaefer
 
-<flex>
-<div class="md:w-2/5 flex-auto">
 
-![](dr-kerry.jpeg)
+<div class="float-left portrait">
+
+![](dr-kerry-portrait.jpeg)
 
 </div>
-<div class="md:w-3/5 flex-auto">
 
 Kerry grew up in beautiful Hood River. She headed across the country to attend college at Amherst College in Massachusetts where she majored in Theater and Dance. After working for Americorps in Philadelphia for a year and spending another year enjoying dance and travel she started medical school in Madison, Wisconsin.
 
@@ -80,23 +79,17 @@ In July 2019, Kerry transitioned the clinic to Healthy Living Community, a nonpr
 
 She lives in southeast Portland in with her partner Carl, their daughters Sydney and Rachel. She loves the outdoors. She currently spends most of her free time with her family or training in aerial dance.
 
-</div>
-</flex>
 </section>
 
 <section>
 
 ## Meet Karen Davis
 
-<flex>
-<div class="md:w-2/5 flex-auto">
-<div class="portrait">
+<div class="float-left portrait">
 
 ![](KarenD19.jpg)
 
 </div>
-</div>
-<div class="md:w-3/5 flex-auto">
 
 Meet Karen Davis, MS, CNS®, a clinical nutritionist who began her career in evidenced-based nutrition when she recognized the key role food choice plays in preventing many of the chronic diseases we face today.
 
@@ -106,7 +99,12 @@ Karen is the owner of Karen Davis Nutrition where she is able to bring her own u
 
 When not nerding out on all things nutrition, you will find Karen working out, reading, and exploring the beautiful Pacific Northwest with her rescue dog, Lucy.
 
-</div>
-</flex>
+</section>
+
+<section>
+
+## Meet Pearl, MA
+
+Pearl is Dr. Kerry's medical assistant and office manager. Having grown up in a natural medicine minded family, working in a functional medicine environment is a perfect fit. She enjoys serving a population in which health is approached in a holistic way. She spends her free time adventuring with her two daughters.
 
 </section>

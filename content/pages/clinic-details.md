@@ -18,22 +18,22 @@ hours:
     description: Dr. Kerry is available for patient appointments during the following hours
     days:
       - name: Monday
-        value: 9:30am - 2:00pm
-      - name: Wednesday
-        value: 9:30am - 5:00pm
+        value: 1:00pm - 5:00pm
+      - name: Tuesday
+        value: 2:00pm - 5:00pm
       - name: Friday
-        value: 9:30am - 2:00pm
+        value: 9:00am - 3:00pm
   - title: Pearl's Hours
-    description: Pearl will be available to address phone and portal communication and walk-in needs during these times
+    description: At this time, the clinic building is only open by appointment (no walk-in). Please contact Pearl in the Patient Portal to schedule a time to purchase supplements or other services.
     days:
       - name: Monday
         value: 9:00am - 5:00pm
       - name: Tuesday
         value: 9:00am - 5:00pm
       - name: Wednesday
-        value: 9:00am - 5:00pm
-      - name: Thursday
         value: CLOSED
+      - name: Thursday
+        value: 9:00am - 5:00pm
       - name: Friday
         value: 9:00am - 5:00pm
 ---
@@ -45,11 +45,11 @@ hours:
 Healthy Living Community is here to support you and your family through these uncertain times. We are offering:
 
 - Tele-medicine visits with Dr. Kerry
-- Urgent care visits at our pop-up clinic tent
+- Outdoor visits under the willow tree in the clinic garden
 - 24/7 text/phone availability for urgent questions
 - Please only reserve calls between the hours 9pm-8am for very urgent questions/concerns. If a question is not urgent and could be answered the following day during working hours please consider waiting.
 - Texting is probably the quickest way to get a response! You can also send messages through the ChARM portal-- Dr. Kerry will try to answer same or next day.
-- Online events
+- Online events and in-person masked events
 - Email updates in our newsletter
 - Helpful Facebook posts
 

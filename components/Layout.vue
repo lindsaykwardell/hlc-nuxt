@@ -15,11 +15,11 @@
         style="width: 200px"
       />
       <div class="flex-grow">
-        <p class="text-white text-xl p-4">
+        <p class="text-white text-xl p-4 text-justify">
           "When I bring my child in to get shots, she wants to stick around and
           play in the waiting room! I'm truly grateful for this space."
         </p>
-        <div class="text-right">
+        <div class="text-center mt-4 md:text-right">
           <CallToAction
             class="text-xl bg-hlc-magenta-600 hover:bg-hlc-magenta-700"
           >

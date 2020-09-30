@@ -82,7 +82,7 @@ module.exports = {
       sans:
         "'Lato', 'Source Sans Pro',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif",
       mulish: '"Mulish", sans-serif',
-      playfair: '"Playfair Display", serif'
+      merriweather: '"Merriweather", serif'
     }
   },
   variants: {},
