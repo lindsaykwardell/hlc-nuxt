@@ -1,7 +1,7 @@
 <template>
   <div class="template container">
     <slot />
-    <section>
+    <section class="full">
       <Accordion
         v-for="question in content"
         :key="question.title"

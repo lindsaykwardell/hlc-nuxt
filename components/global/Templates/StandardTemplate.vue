@@ -8,6 +8,12 @@
 .template {
   section {
     @apply bg-white shadow p-8 mb-4;
+
+    &:not(.full) > * {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 900px;
+    }
   }
 
   h1,

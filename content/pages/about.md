@@ -63,6 +63,11 @@ We have established a Board of Directors to help guide the trajectory of HLC and
 ## Meet Dr. Kerry Schaefer
 
 <flex>
+<div class="md:w-2/5 flex-auto">
+
+![](dr-kerry.jpeg)
+
+</div>
 <div class="md:w-3/5 flex-auto">
 
 Kerry grew up in beautiful Hood River. She headed across the country to attend college at Amherst College in Massachusetts where she majored in Theater and Dance. After working for Americorps in Philadelphia for a year and spending another year enjoying dance and travel she started medical school in Madison, Wisconsin.
@@ -74,11 +79,6 @@ Following residency she worked in traditional family medicine clinic during whic
 In July 2019, Kerry transitioned the clinic to Healthy Living Community, a nonprofit focused on creating a healthy community in which its members can create ideal health and have access to affordable holistic and functional care. 
 
 She lives in southeast Portland in with her partner Carl, their daughters Sydney and Rachel. She loves the outdoors. She currently spends most of her free time with her family or training in aerial dance.
-
-</div>
-<div class="md:w-2/5 flex-auto">
-
-![](dr-kerry.jpeg)
 
 </div>
 </flex>

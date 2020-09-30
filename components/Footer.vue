@@ -11,7 +11,7 @@
         </p>
         <a
           href="https://phr.charmtracker.com/login.sas?FACILITY_ID=9fac109f10b85efdeadfd56aed2ab60a43b1154fc374a4756c8f7ea08edb2f3fd95fcbc3b76e32a2"
-          class="px-4 py-3 bg-hlc-green-500 hover:bg-hlc-green-400 transition duration-200 hover:shadow-md rounded-lg text-white"
+          class="px-4 py-3 bg-hlc-green-500 hover:bg-hlc-green-400 transition duration-200 hover:shadow-md rounded text-white"
         >
           Patient Portal
         </a>
@@ -23,7 +23,7 @@
         </p>
         <a
           href="https://wellevate.me/kerry-schaefer-1"
-          class="px-4 py-3 bg-hlc-brown-700 hover:bg-hlc-brown-600 transition duration-200 hover:shadow-md rounded-lg text-white"
+          class="px-4 py-3 bg-hlc-brown-700 hover:bg-hlc-brown-600 transition duration-200 hover:shadow-md rounded text-white"
         >
           Supplements
         </a>

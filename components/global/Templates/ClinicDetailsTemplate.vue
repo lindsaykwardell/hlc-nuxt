@@ -1,6 +1,6 @@
 <template>
   <div class="template container">
-    <section>
+    <section class="full">
       <h1>Location</h1>
       <h4>Where to find us</h4>
       <hr />

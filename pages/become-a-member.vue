@@ -22,8 +22,7 @@
           <input name="bot-field" type="hidden" />
           <input
             type="submit"
-            class="bg-hlc-magenta-500 text-white rounded-lg transition duration-200 hover:bg-hlc-magenta-600 mt-5 px-4 py-2 cursor-pointer"
-            :disabled="submitted"
+            class="bg-hlc-magenta-500 text-white rounded transition duration-200 hover:bg-hlc-magenta-600 mt-5 px-4 py-2 cursor-pointer"
             value="Request Membership Form"
           />
         </form>
@@ -49,6 +48,6 @@ export default {
     return {
       pages
     };
-  },
+  }
 };
 </script>

@@ -1,6 +1,6 @@
 <template>
   <Layout :pages="pages" activePage="/">
-    <div class="hero overflow-hidden m-auto relative mt-8 shadow-lg">
+    <div class="hero overflow-hidden m-auto relative my-8 shadow-lg">
       <!-- <CallToAction class="bg-hlc-green-500 text-white">
         <span>{{ content.action.main }}</span
         ><br />
@@ -59,9 +59,3 @@ export default {
   }
 };
 </script>
-
-<style lang="postcss" scoped>
-section {
-  @apply mt-5;
-}
-</style>

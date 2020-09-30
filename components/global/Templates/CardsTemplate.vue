@@ -1,7 +1,7 @@
 <template>
   <div class="template container">
     <slot />
-    <section class="flex flex-wrap">
+    <section class="flex flex-wrap full">
       <ServiceCard v-for="elem in content" :key="elem.slug" :title="elem.title">
         <nuxt-content :document="elem" />
       </ServiceCard>
