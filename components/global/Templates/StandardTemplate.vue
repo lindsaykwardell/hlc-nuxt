@@ -18,7 +18,7 @@
 
   section,
   aside {
-    p {
+    p:not(.text-left):not(.text-right):not(.text-center) {
       @apply text-justify;
     }
   }
