@@ -5,27 +5,22 @@
         <h1>Become a Member</h1>
       </section>
       <section>
-        <form
-          method="post"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-          class="flex flex-col justify-center items-center"
-        >
-          <label class="flex flex-col w-full sm:w-2/3 md:w-1/2 lg:w-1/3 my-3">
-            Name
-            <input name="name" required class=" p-2 shadow bg-gray-400" />
-          </label>
-          <label class="flex flex-col w-full sm:w-2/3 md:w-1/2 lg:w-1/3 my-3">
-            Email Address
-            <input name="email" required class="p-2 shadow bg-gray-400" />
-          </label>
-          <input name="bot-field" type="hidden" />
-          <input
-            type="submit"
-            class="bg-hlc-magenta-500 text-white rounded transition duration-200 hover:bg-hlc-magenta-600 mt-5 px-4 py-2 cursor-pointer"
-            value="Request Membership Form"
-          />
-        </form>
+        <p>
+          Becoming a member is easy! Just call the clinic number (971-231-4536)
+          or email
+          <a href="mailto:pearl@healthylivingfamilymedicine.com"
+            >pearl@healthylivingfamilymedicine.com</a
+          >.
+        </p>
+        <p>
+          After connecting with us, you will be asked to complete a Membership
+          Form which must be submitted prior to scheduling an appointment for
+          you/a family member. Membership must be renewed at the end of each
+          year by completing a new Membership Form.
+        </p>
+        <p>The membership form is also available below.</p>
+        <a href="HLC-Membership-Renewal-Agreement-2020.pdf">Download the Healthy Living Community Membership Form (2020)</a><br />
+        <a href="hlc-renewal-form.pdf">Download the Healthy Living Community Membership Renewal Form (2020)</a>
       </section>
     </StandardTemplate>
   </Layout>
