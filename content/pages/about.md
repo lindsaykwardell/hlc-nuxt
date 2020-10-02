@@ -63,7 +63,7 @@ We have established a Board of Directors to help guide the trajectory of HLC and
 ## Meet Dr. Kerry Schaefer
 
 
-<div class="float-left portrait">
+<div class="text-center sm:text-left sm:float-left portrait">
 
 ![](dr-kerry-portrait.jpeg)
 
@@ -85,7 +85,7 @@ She lives in southeast Portland in with her partner Carl, their daughters Sydney
 
 ## Meet Karen Davis
 
-<div class="float-left portrait">
+<div class="text-center sm:text-left sm:float-left portrait">
 
 ![](KarenD19.jpg)
 
