@@ -2,6 +2,7 @@
 title: What do I get with my HLC membership?
 order: 
 icon: []
+category: Payment Policies
 
 ---
 With your membership fee you are getting and sustaining:

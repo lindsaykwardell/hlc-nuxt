@@ -2,6 +2,7 @@
 title: What are the membership policies?
 order: 
 icon: []
+category: Payment Policies
 
 ---
 Membership is renewed at the end of each year (in November). All members will be asked to sign up again and re-commit to a membership fee for the following year.

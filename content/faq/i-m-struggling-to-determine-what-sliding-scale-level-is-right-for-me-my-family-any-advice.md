@@ -3,7 +3,7 @@ title: I’m struggling to determine what sliding scale level is right for me/my
   any advice?
 order: 
 icon: []
-
+category: Payment Policies
 ---
 Though it may feel uncomfortable to determine a payment amount that feels right for you or your family, this model has been devised to make the unique functional healthcare Healthy Living Community offers accessible to all. We fundamentally value every single one of our members, and what you offer to our community.
 

@@ -41,7 +41,7 @@
           >
             <font-awesome-icon
               :icon="['fab', 'facebook']"
-              class="text-2xl mx-1 text-hlc-green-300 hover:text-hlc-green-400 transition duration-200"
+              class="text-2xl mx-1 text-hlc-green-300 hover:text-hlc-green-200 transition duration-200"
             />
           </a>
           <a
@@ -51,7 +51,7 @@
           >
             <font-awesome-icon
               :icon="['fab', 'instagram']"
-              class="text-2xl mx-1 text-hlc-green-300 hover:text-hlc-green-400 transition duration-200"
+              class="text-2xl mx-1 text-hlc-green-300 hover:text-hlc-green-200 transition duration-200"
             />
           </a>
         </div>
@@ -62,10 +62,10 @@
           <nuxt-link to="/board" class="hover:underline"
             >Meet the Board</nuxt-link
           >
-          <nuxt-link to="/board-minutes" class="hover:underline"
+          <!-- <nuxt-link to="/board-minutes" class="hover:underline"
             >Board Minutes</nuxt-link
           >
-          <a href="#" class="hover:underline">HLC Newsletter</a>
+          <a href="#" class="hover:underline">HLC Newsletter</a> -->
         </div>
       </div>
     </div>

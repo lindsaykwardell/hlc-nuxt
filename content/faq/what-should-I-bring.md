@@ -4,6 +4,7 @@ order: 4
 icon: 
   - "fa"
   - "id-card"
+category: General Policies
 ---
 For all appointments, please bring:
 

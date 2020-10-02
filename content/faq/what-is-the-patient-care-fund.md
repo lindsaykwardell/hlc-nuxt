@@ -2,6 +2,7 @@
 title: What is the Patient Care Fund?
 order: 
 icon: []
+category: Payment Policies
 
 ---
 In order to keep our clinic running on the sliding scale payment model, we have established a Patient Care Fund. Individuals can donate to this fund to directly support health service costs for those who may be unable to afford payments at this time.

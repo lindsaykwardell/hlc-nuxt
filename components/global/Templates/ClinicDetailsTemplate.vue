@@ -19,9 +19,11 @@
       </div>
       <div class="flex flex-col md:flex-row p-4 pt-16">
         <div class="col" role="Contact information">
-          <h3 class="py-4">Address:</h3>
-          <p class="whitespace-pre-line">
-            {{ address }}
+          <h3>Address:</h3>
+          <p>
+            {{ address[0] }}<br />
+            {{ address[1] }}<br />
+            {{ address[2] }}
           </p>
           <h3 class="py-4">Contact:</h3>
           <div
@@ -32,7 +34,7 @@
             <div class="col-span-1">{{ contact.name }}:</div>
             <div class="col-span-4">
               <template v-if="contact.value.includes('@')">
-                <a :href="`mailto:${contact.value}`">
+                <a class="break-all" :href="`mailto:${contact.value}`">
                   {{ contact.value }}
                 </a>
               </template>
@@ -71,10 +73,7 @@ export default {
   props: ["content"],
   computed: {
     address() {
-      return this.content.address.reduce(
-        (total, line) => total + `${line}\n`,
-        ""
-      );
+      return this.content.address
     }
   },
   mounted() {

@@ -23,7 +23,7 @@ At Healthy Living Community (HLC), we offer a different kind of healthcare. We s
 
 We are a registered 501(c)(3) nonprofit that offers affordable patient-centered care in a beautiful and welcoming setting. We offer a sliding scale membership and office visit model, allowing our community members to pay what they can for the care they want and deserve. We focus on root causes of symptoms, and work with our patients on treatment plans that are both realistic and effective. Our patient care integrates medications with diet and exercise, as well as referrals to massage, acupuncture, naturopathic medicine and various other modalities. Our goal is to do this in a compassionate, cost-effective, and earth-friendly manner.
 
-To learn more about our model of care and the community we’re building, read more About Us \[insert hyperlink to About page\].
+To learn more about our model of care and the community we’re building, read more [About Us](/about).
 
 </section>
 

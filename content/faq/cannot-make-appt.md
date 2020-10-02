@@ -4,6 +4,7 @@ order: 3
 icon: 
   - "fa"
   - "calendar-times"
+category: General Policies
 ---
 Call us to reschedule soon as you know that you won't be able to make an appointment. If you need to cancel, please call at least 24 hours prior to your appointment to avoid a $50 cancellation / no show fee.
 

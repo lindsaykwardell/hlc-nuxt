@@ -16,8 +16,7 @@
       />
       <div class="flex-grow">
         <p class="text-white text-xl p-4 text-justify">
-          "When I bring my child in to get shots, she wants to stick around and
-          play in the waiting room! I'm truly grateful for this space."
+          "{{quote}}"
         </p>
         <div class="text-center mt-4 md:text-right">
           <CallToAction
@@ -49,6 +48,19 @@ export default {
     }
   },
   computed: {
+    quotes() {
+      return [
+        "I am so appreciative of the community Dr. Kerry is building and that my family is able to continue to be part of a place that treats and values whole people.",
+        "When I bring my child in to get shots, she wants to stick around and play in the waiting room! I'm truly grateful for this space.",
+        "Dr. Kerry is a woman doctor who listens, cares, finds answers, and never leaves you just wondering what is wrong or not wrong.",
+        "If you are like me and have struggled to find proper support and medical care from common medical professionals your whole life, I think you will be very happy to find Dr. Kerry is exactly the fit you needed all along.",
+        "Healthy Living Community changed my life and I’m inspired to invite my friends and family to join this amazing community.",
+        "Whenever I think of Healthy Living Community, I think of people that care about me and my family. I love being a part of this community!"
+      ];
+    },
+    quote() {
+      return this.quotes[Math.floor(Math.random() * this.quotes.length)];
+    },
     _pages() {
       return [
         {

@@ -2,6 +2,7 @@
 title: What sliding scale payment level is right for me?
 order: 
 icon: []
+category: Payment Policies
 
 ---
 When paying for an appointment, please consider your (or you and your family’s) current financial situation (including housing, employment, debt and investments) as well as the holistic, patient-centered, care you receive at this practice.

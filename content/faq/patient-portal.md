@@ -4,6 +4,7 @@ order: 7
 icon: 
   - "fa"
   - "user-cog"
+category: General Policies
 ---
 Healthy Living Family Medicine provides a Patient Portal for Dr. Kerry's patients.
 

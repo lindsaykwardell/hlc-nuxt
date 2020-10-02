@@ -4,6 +4,7 @@ order: 2
 icon: 
   - "fa"
   - "phone"
+category: General Policies
 ---
 For non-urgent questions please contact us via the Patient Portal, or give us a call during our office hours when we are in clinic. You can reach us at (971) 231-HLFM (4536).
 

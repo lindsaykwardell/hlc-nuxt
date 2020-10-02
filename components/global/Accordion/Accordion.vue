@@ -2,7 +2,7 @@
   <VToggle>
     <template v-slot:label>
       <div class="flex items-center">
-        <div v-if="icon" class="w-16">
+        <div v-if="icon.length" class="w-16">
           <font-awesome-icon :icon="icon" size="lg" class="text-black" />
         </div>
         <div class="flex-grow">{{ title }}</div>

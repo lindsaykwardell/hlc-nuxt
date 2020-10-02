@@ -2,6 +2,7 @@
 title: 'Why has HLC decided to not contract with insurance companies? '
 order: 
 icon: []
+category: Payment Policies
 
 ---
 A message from Dr. Kerry:

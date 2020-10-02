@@ -1,9 +1,10 @@
 <template>
   <div class="template container">
     <slot />
-    <section class="full">
+    <section v-for="category in categories" :key="category" class="full">
+      <h2 :id="category.replace(' ', '-').toLowerCase()">{{ category }}</h2>
       <Accordion
-        v-for="question in content"
+        v-for="question in content.filter(q => q.category === category)"
         :key="question.title"
         :question="question"
       />
@@ -20,6 +21,14 @@ export default {
     content: {
       type: Array,
       default: () => []
+    }
+  },
+  computed: {
+    categories() {
+      return [
+        "General Policies",
+        ...this.content.map(question => question.category)
+      ].filter((cat, index, arr) => arr.findIndex(c => c === cat) === index);
     }
   }
 };

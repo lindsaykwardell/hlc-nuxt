@@ -4,6 +4,7 @@ order: 5
 icon: 
   - "fa"
   - "info-circle"
+category: General Policies
 ---
 Welcome to Healthy Living Family Medicine!
 

@@ -1,6 +1,6 @@
 <template>
   <div class="col">
-    <h3 class="py-4">{{title}}</h3>
+    <h3>{{title}}</h3>
     <p>
       {{description}}
     </p>
