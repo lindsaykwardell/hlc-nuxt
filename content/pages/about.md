@@ -17,7 +17,7 @@ In an ideal world, health insurance would improve the accessibility of health ca
 
 In this world of increasing health insurance costs, limited insurance coverage, and fluctuating economic stability, how do we as a community come together to support health and wellness? How do we create a system that ensures access to a trusted provider who will take the time to support the well-being of our families no matter their financial means?
 
-<div class="text-center sm:text-left sm:float-left">
+<div class="sm:float-left">
 
 ##### [Read our Booklet: ![](clinic-change-booklet250x323.jpg)](healthy-living-family-medicine-booklet.pdf)
 
@@ -29,7 +29,7 @@ HLC has integrated a model of care that offers a low cost sliding-scale membersh
 
 We are committed to cost transparency, and appreciate that this model of care provides flexibility to our members--allowing them to make payments based on their current financial situation. Those who are able to pay a higher monthly membership, or the full cost for an appointment, will help offset the cost for individuals who may be unable to afford healthcare at this time. Our goal is to make Healthy Living Community’s unique functional healthcare accessible to all.
 
-<div class="text-center sm:text-left sm:float-right">
+<div class="sm:float-right">
 
 ##### [Read our Flow Sheet: ![](new-model-flow-sheet-250x323.jpg)](healthy-living-family-medicine-flow-sheet.pdf)
 
@@ -63,7 +63,7 @@ We have established a Board of Directors to help guide the trajectory of HLC and
 ## Meet Dr. Kerry Schaefer
 
 
-<div class="text-center sm:text-left sm:float-left portrait">
+<div class="sm:float-left portrait">
 
 ![](dr-kerry-portrait.jpeg)
 
@@ -85,7 +85,7 @@ She lives in southeast Portland in with her partner Carl, their daughters Sydney
 
 ## Meet Karen Davis
 
-<div class="text-center sm:text-left sm:float-left portrait">
+<div class="sm:float-left portrait">
 
 ![](KarenD19.jpg)
 

@@ -13,7 +13,7 @@ template: StandardTemplate
 
 ## Dr. Kerry Schaefer
 
-<div class="text-center sm:text-left sm:float-left portrait">
+<div class="sm:float-left portrait">
 
 ![](board-kerry.jpg)
 
@@ -31,7 +31,7 @@ Dr. Kerry is the main medical provider for Healthy Living Community. HLC is a no
 
 ## Mikayla Briare
 
-<div class="text-center sm:text-left sm:float-left portrait">
+<div class="sm:float-left portrait">
 
 ![](board-mikayla.jpg)
 
@@ -49,7 +49,7 @@ A little bit about me: I am a Portland native! I am currently getting my Masterâ
 
 ## Kat Wardell
 
-<div class="text-center sm:text-left sm:float-left portrait">
+<div class="sm:float-left portrait">
 
 ![](board-kat.jpg)
 
@@ -67,7 +67,7 @@ This desire has driven Kat to pursue community-building so that others donâ€™t h
 
 ## Carl Perkins, Treasurer
 
-<div class="text-center sm:text-left sm:float-left portrait">
+<div class="sm:float-left portrait">
 
 ![](board-carl.jpg)
 
