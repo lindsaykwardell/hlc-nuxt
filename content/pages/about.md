@@ -52,7 +52,7 @@ With this healthcare model, people are able to make meaningful investments in th
 
 This means any donation you make is tax deductible. All donations go directly into our Patient Care Fund, which is used to cover the cost of healthcare services for members challenged by healthcare costs.
 
-We have established a Board of Directors to help guide the trajectory of HLC and ensure our mission is alive in everything we do. You can meet our amazing Board members HERE (insert LINK to Board member profiles).
+We have established a Board of Directors to help guide the trajectory of HLC and ensure our mission is alive in everything we do. [Click here to meet our amazing Board members](board).
 
 <div class="my-8"><donate-button></donate-button></div>
 

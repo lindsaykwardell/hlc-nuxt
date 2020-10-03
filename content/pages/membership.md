@@ -37,7 +37,7 @@ The minimum monthly membership payment is **\$10 per member per month**. Payment
 
 When you, or a family member, comes in for an appointment you will be asked to _pay what you can_ for that service at the time of visit.
 
-We are committed to being transparent regarding our actual cost for services (see our Services Cost List--INSERT LINK). You have the option to pay for an appointment in full OR decide on a payment amount that feels doable given your financial situation. Our Services Cost listings are meant to inform, not dictate, what you can pay.
+We are committed to being transparent regarding our actual cost for services (see our Services Cost List). You have the option to pay for an appointment in full OR decide on a payment amount that feels doable given your financial situation. Our Services Cost listings are meant to inform, not dictate, what you can pay.
 
 You also have the option to request a superbill to submit to your insurance for appointment cost reimbursement. (We will still bill your insurance for any labs, imaging, and prescriptions).
 
