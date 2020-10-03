@@ -97,7 +97,10 @@ module.exports = {
       "content/**/*.md",
       "plugins/**/*.js",
       "nuxt.config.js"
-    ]
+    ],
+    options: {
+      whitelist: ["sm:float-left", "sm:float-right"]
+    }
   },
   future: {
     removeDeprecatedGapUtilities: true
