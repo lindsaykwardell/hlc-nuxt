@@ -50,3 +50,5 @@ Our healthcare providers will always meet you where you are, educate, and discus
 That’s why at HLC we not only support our patients individual needs, as well as foster community growth and connection to create a network of health and well-being
 
 We also partner with local organizations that support a healthier community
+
+</section
