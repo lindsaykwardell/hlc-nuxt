@@ -45,7 +45,7 @@
             />
           </a>
           <a
-            href="mailto:drkerry@healthylivingfamilymedicine.com"
+            href="mailto:drkerry@hlcomm.org"
             alt="Email Contact"
           >
             <font-awesome-icon
