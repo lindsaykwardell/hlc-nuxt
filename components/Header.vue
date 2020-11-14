@@ -17,11 +17,13 @@
         <div class="lg:flex-grow">
           <div class="flex mb-4 lg:mb-0 items-center">
             <div class="flex-grow">
-              <img
-                src="hlc-logo-stacked-color.svg"
-                alt="Healthy Living Community Logo"
-                class="logo stacked lg:ml-12"
-              />
+              <nuxt-link to="/">
+                <img
+                  src="hlc-logo-stacked-color.svg"
+                  alt="Healthy Living Community Logo"
+                  class="logo stacked lg:ml-12"
+                />
+              </nuxt-link>
             </div>
             <div v-if="isMd(width)" class="flex-shrink">
               <button @click="showMenu = !showMenu">
@@ -66,7 +68,7 @@ export default {
         this.showMenu = false;
       }
 
-      this.prevMd = res
+      this.prevMd = res;
 
       return res;
     }

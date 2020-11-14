@@ -29,15 +29,15 @@ We fundamentally value each and every one of our members and the individual tale
 
 We have adopted a sliding scale monthly membership fee for HLC members. Each individual, or family, is responsible for determining their own monthly payment capabilities given their current financial situation. This model is designed to allow more people access to necessary health care services and to maintain the unique holistic functional care HLC offers.
 
-The minimum monthly membership payment is **\$10 per member per month**. Payments usually range from $10-$50 per month-- you get to decide which payment feels doable for you/your family!
+The minimum monthly membership payment is **$10 per member per month**. Payments usually range from $10-$50 per month-- you get to decide which payment feels doable for you/your family!
 
 [Read more about our membership policies.](/faq)
 
----**Pay by Appointment**
+**Pay by Appointment**
 
 When you, or a family member, comes in for an appointment you will be asked to _pay what you can_ for that service at the time of visit.
 
-We are committed to being transparent regarding our actual cost for services (see our Services Cost List). You have the option to pay for an appointment in full OR decide on a payment amount that feels doable given your financial situation. Our Services Cost listings are meant to inform, not dictate, what you can pay.
+We are committed to being transparent regarding our actual cost for services (see our [Services Price List](/hlc-services-price-list.pdf)). You have the option to pay for an appointment in full OR decide on a payment amount that feels doable given your financial situation. Our Services Cost listings are meant to inform, not dictate, what you can pay.
 
 You also have the option to request a superbill to submit to your insurance for appointment cost reimbursement. (We will still bill your insurance for any labs, imaging, and prescriptions).
 

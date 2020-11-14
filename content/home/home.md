@@ -37,7 +37,7 @@ Every person should be able to access the holistic care they need and deserve. O
 
 **_Health is holistic_**
 
-Mind, body, and spirit-- health encompasses all aspects of our being and at HLC we ensure that the care we deliver affirms that
+Mind, body, and spirit-- health encompasses all aspects of our being and at HLC we ensure that the care we deliver affirms that.
 
 **_Healthcare should be a conversation, and there is no "one size fits all" model for health_**
 
@@ -47,8 +47,8 @@ Our healthcare providers will always meet you where you are, educate, and discus
 
 **_Healthy communities grow healthy individuals_**
 
-That’s why at HLC we not only support our patients individual needs, as well as foster community growth and connection to create a network of health and well-being
+That’s why at HLC, we not only support the individual needs of our patients, but also foster community and connection to create a network of health and well-being.
 
-We also partner with local organizations that support a healthier community
+We also partner with local organizations that support a healthier community.
 
 </section

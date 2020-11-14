@@ -1,5 +1,5 @@
 ---
-title: "What are my first steps a new patient?"
+title: "What are my first steps as a new patient?"
 order: 5
 icon: 
   - "fa"
@@ -16,7 +16,7 @@ Please bring the following to your first appointment:
 2. Insurance information (if applicable)
 3. Your medications and supplements (in their packaging)
 4. New patient paperwork
-5. Immunization record (for both adults and children
+5. Immunization record (for both adults and children)
 
 Please review or fill out these forms as appropriate.
 

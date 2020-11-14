@@ -68,7 +68,7 @@ export default {
       type: Array,
       default: () => []
     },
-    Fage: {
+    activePage: {
       type: String,
       default: "/"
     }
