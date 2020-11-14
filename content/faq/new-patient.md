@@ -6,7 +6,7 @@ icon:
   - "info-circle"
 category: General Policies
 ---
-Welcome to Healthy Living Family Medicine!
+Welcome to Healthy Living Community!
 
 We will set you up with a Portal Account, then send you a link to the new patient questionnaire to fill out prior to your first appointment.
 

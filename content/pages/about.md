@@ -73,7 +73,7 @@ Kerry grew up in beautiful Hood River. She headed across the country to attend c
 
 During medical school her long-standing expectation was confirmed, she wanted to be a family medicine doctor. She was very excited to make it back to the Pacific Northwest to start her family medicine residency at Providence Milwaukie Hospital.
 
-Following residency she worked in traditional family medicine clinic during which she discovered that she needed and wanted to find a new way to practice medicine. She did not like trying to see as many patients per day as possible. She started Healthy Living Family Medicine to provide her patients with longer appointment times and more personal treatment which she finds much more fulfilling. She wants to create an environment where her patients feel safe and happy coming to the doctor.
+Following residency she worked in traditional family medicine clinic during which she discovered that she needed and wanted to find a new way to practice medicine. She did not like trying to see as many patients per day as possible. She started Healthy Living Community to provide her patients with longer appointment times and more personal treatment which she finds much more fulfilling. She wants to create an environment where her patients feel safe and happy coming to the doctor.
 
 In July 2019, Kerry transitioned the clinic to Healthy Living Community, a nonprofit focused on creating a healthy community in which its members can create ideal health and have access to affordable holistic and functional care. 
 
