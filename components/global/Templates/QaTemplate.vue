@@ -4,7 +4,7 @@
     <section v-for="category in categories" :key="category" class="full">
       <h2 :id="category.replace(' ', '-').toLowerCase()">{{ category }}</h2>
       <Accordion
-        v-for="question in content.filter(q => q.category === category)"
+        v-for="question in content.filter(q => q.category === category).sort((a,b) => a.order - b.order)"
         :key="question.title"
         :question="question"
       />
