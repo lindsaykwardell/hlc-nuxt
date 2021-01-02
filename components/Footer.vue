@@ -7,7 +7,7 @@
         <h5 class="text-current">Access the Patient Portal</h5>
         <p class="pb-8">
           Convenient 24/7 access to your healthcare information and
-          communication with Dr. Kerry and her team.
+          communication with our providers.
         </p>
         <a
           href="https://phr.charmtracker.com/login.sas?FACILITY_ID=9fac109f10b85efdeadfd56aed2ab60a43b1154fc374a4756c8f7ea08edb2f3fd95fcbc3b76e32a2"
@@ -19,7 +19,7 @@
       <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
         <h5 class="text-current">Purchase Supplements</h5>
         <p class="pb-8">
-          Visit Dr. Kerry's Supplements page to find approved options.
+          Visit our Supplements page to find approved options.
         </p>
         <a
           href="https://wellevate.me/kerry-schaefer-1"
