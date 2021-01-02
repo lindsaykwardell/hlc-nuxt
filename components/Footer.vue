@@ -65,6 +65,11 @@
           <nuxt-link to="/become-a-member" class="hover:underline">
             Become a Member
           </nuxt-link>
+          <a
+            href="https://na4.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=b3ee0ce1-56ce-455e-83af-6374bfeffd89&env=na4&acct=0e6fd90f-71e8-49ae-a981-177bebc0810f&v=2"
+          >
+            Payment Update Form
+          </a>
           <!-- <nuxt-link to="/board-minutes" class="hover:underline"
             >Board Minutes</nuxt-link
           >
