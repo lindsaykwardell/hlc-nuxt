@@ -13,14 +13,16 @@
     <StandardTemplate>
       <nuxt-content :document="content" />
       <div class="flex flex-col md:flex-row">
-        <aside class="w-full md:w-1/4 md:mr-3 bg-white shadow mb-4">
-          <h3>Upcoming Events</h3>
-          <img :src="events[0].image" alt="Event image" />
-          <hr />
-          <h5 class="text-left px-2">Title: {{ events[0].title }}</h5>
-          <h5 class="text-left px-2">When: {{ formatDate(events[0].date) }}</h5>
-          <div class="p-4">
-            <nuxt-content :document="events[0]" />
+        <aside class="w-full md:w-1/4">
+          <div class="bg-white shadow md:mr-3 mb-4 p-2">
+            <h3>Upcoming Events</h3>
+            <img :src="events[0].image" alt="Event image" />
+            <hr />
+            <h5 class="text-left px-2">Title: {{ events[0].title }}</h5>
+            <h5 class="text-left px-2">When: {{ formatDate(events[0].date) }}</h5>
+            <div class="p-4">
+              <nuxt-content :document="events[0]" />
+            </div>
           </div>
         </aside>
         <div class="w-full md:w-3/4 md:ml-3">

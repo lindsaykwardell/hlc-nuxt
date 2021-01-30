@@ -83,7 +83,7 @@ She lives in southeast Portland in with her partner Carl, their daughters Sydney
 
 <section>
 
-## Meet Karen Davis
+## Meet Karen Davis, MS, CNS®
 
 <div class="sm:float-left portrait">
 
@@ -91,13 +91,69 @@ She lives in southeast Portland in with her partner Carl, their daughters Sydney
 
 </div>
 
-Meet Karen Davis, MS, CNS®, a clinical nutritionist who began her career in evidenced-based nutrition when she recognized the key role food choice plays in preventing many of the chronic diseases we face today.
+Karen is a clinical nutritionist who began her career in evidenced-based nutrition when she recognized the key role food choice plays in preventing many of the chronic diseases we face today.
 
-After completing her Master of Science in Nutrition, Karen went on to earn a national credential with the Board for Certification of Nutrition Specialists®. Karen participated in a therapeutic ketogenic diet training course through the American Nutrition Association and passed the exam to become a Certified Ketogenic Nutrition Specialist℠ which now enables her to specialize in this medically-supervised approach to disease management to provide safe and effective outcomes. The way in which Karen does this is through working with her client seeing them as a whole person, in a judgement-free environment, and starts wherever they may be in their journey. She helps establish attainable goals and specific recommendations, knowing that permanent change takes time; all the while providing coaching, education and a whole lot of encouragement. As a member of the Healthy Living Community team, Karen provides EAV (Vega) Food Sensitivity Testing as well as one-on-one nutritional counseling.
+After completing her Master of Science in Nutrition, Karen went on to earn a national credential with the Board for Certification of Nutrition Specialists®.  Karen participated in a therapeutic ketogenic diet training course through the American Nutrition Association and passed a national exam to become a Certified Ketogenic Nutrition Specialist℠.  As a member of the Healthy Living Community team, Karen provides EAV (Vega) Food Sensitivity Testing as well as one-on-one nutritional counseling. 
 
-Karen is the owner of Karen Davis Nutrition where she is able to bring her own unique approach to help and support her clients to make successful, long lasting changes to their food and lifestyle choices.
+Karen also teaches group classes and offers the following on a regular basis:
 
-When not nerding out on all things nutrition, you will find Karen working out, reading, and exploring the beautiful Pacific Northwest with her rescue dog, Lucy.
+<div class="clear-both"></div>
+
+- RESTART® Sugar Detox Class – A 5-week program to help you eliminate sugar from your diet while being fully supported with classes, recipes and more.
+- 6-Week Ketogenic Diet Challenge – A 6-week program to help you get into ketosis using a well-balance keto diet. Includes classes, meal plans and more. 
+
+
+Karen is the owner of Karen Davis Nutrition where she is able to bring her own unique approach to help and support her clients to make successful, long lasting changes to their food and lifestyle choices.  
+
+When not nerding out on all things nutrition, you will find Karen working out, cooking, reading, and exploring the beautiful Pacific Northwest with her rescue dog, Lucy.
+
+
+</section>
+
+<section>
+
+## Meet Aleksandra Giedwoyn, MD
+
+<div class="sm:float-left portrait">
+
+![](aleksandra-bio.jpeg)
+
+</div>
+
+Born and raised in east Portland, I graduated with a BS in Biochemistry from Lewis & Clark College. As a first generation Polish-American, I received my M.D. from Karol Marcinkowski Medical School and finished my Family Medicine internship and residency at Good Samaritan Hospital in Phoenix, Arizona. I have been board certified in Family Medicine since 2002.
+
+My style of practice:
+I prefer to rely more on healthy lifestyle and less on pharmaceuticals. My interests are strong in nutrition and in “food as medicine,” and as a result I am pursing certification in Functional Medicine.  This perspective allows me to collaborate with a wide array of traditional medical specialists and alternative holistic providers to provide patients with great healthcare.
+
+Personal:
+I'm a mom & my son just left for college. 
+Since the 1990's I have been commuting by bicycle year round and in my free time I am an avid outdoor adventurer. I also enjoy yoga, meditation, and foraging wild foods.
+
+</section>
+
+<section>
+
+## Meet Windy Lyle, FNP
+
+<div class="sm:float-left portrait">
+
+![](windy-bio.PNG)
+
+</div>
+
+When we take time to be present and listen to our bodies, we can move toward our personal relationship of wellness and healing.
+
+In her younger years, Windy’s mother and grandmother, both nurses, modeled the power of listening, gifted her with an appreciation for the healing nature of touch, and taught her that western and  herbal medicine can complement one another. Though she hadn’t yet recognized a calling, she began working in community clinics and integrative care clinics as a lay midwife, assisted with women’s health and trauma support, and drew from the very skills and techniques she had seen modeled.
+
+Entering formal nursing education, what she knew at core was that the first priority of nursing is devotion to human health—of individuals, families and of communities. She made it a goal to become not just a nurse, but a nurse healer. Looking back, her deepest calling has been realized through the practice of holistic nursing, and she has come to see healing as a journey into understanding the wholeness of human existence. Along the way,  she has realized the importance of curiosity, of a commitment to lifelong learning, and  of working together  in partnership with the individual.
+
+In 2002, she completed her Family Nurse Practitioner degree, after which she specialized in hematology and oncology at the Portland VA Medical Center, utilizing a functional and integrative medicine approach. Her  25 years there, first as a registered nurse, and then as a nurse practitioner, was a journey gratefully traveled with clients, families and colleagues.
+
+She retired from the VA one year ago, and since then, has watched, listened, and ultimately realized that her soul and mind felt a loss; she was aching to work, once again, with people in a medical setting. She  had been drawn to the way Dr. Kerry has redesigned the Healthy Living Family Community as a 501c3 clinic, and having previously  worked in the clinic while the doctor was on maternity leave several years ago, approached and asked if she needed help, and, she said yes.
+
+In life, Windy is a wife, mother and grandmother. She loves to walk, to sit quietly in nature, to work the soil, to find rhythm beneath the moon, to explore body, mind, spirit, wisdom. She connects most deeply with her ancestors while observing her grandchildren, and experiences great joy while laughing with friends and family. 
+
+So here is Windy, ready to step into a part-time position in the Healthy Living Family Community, grateful for the confidence that Dr. Kerry has placed in her to assist in the support of her clients.
 
 </section>
 
