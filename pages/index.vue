@@ -49,8 +49,13 @@ export default {
       .where({ order: { $gte: 0 } })
       .fetch();
     const content = await $content("home/home").fetch();
-    const events = await $content("home/events").fetch();
-    const notices = await $content("home/notices").fetch();
+    const events = await $content("home/events")
+      .limit(1)
+      .fetch();
+    const notices = await $content("home/notices")
+      .sortBy("createdAt", "desc")
+      .limit(5)
+      .fetch();
 
     return {
       pages,
