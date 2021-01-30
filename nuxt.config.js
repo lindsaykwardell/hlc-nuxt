@@ -41,7 +41,7 @@ export default {
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
    */
-  plugins: ["~/plugins/constant.js", "~/plugins/vue-formulate.js"],
+  plugins: ["~/plugins/constant.js", "~/plugins/vue-formulate.js", "~/plugins/opti-image.js"],
   /*
    ** Auto import components
    ** See https://nuxtjs.org/api/configuration-components

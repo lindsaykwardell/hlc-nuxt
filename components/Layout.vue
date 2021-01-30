@@ -75,8 +75,8 @@ export default {
 
 <style lang="postcss" scoped>
 .hero {
-  max-height: 450px;
-  max-width: 1200px;
+  height: 450px;
+  width: 1200px;
 
   & .action-button {
     @apply absolute;

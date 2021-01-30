@@ -1,5 +1,9 @@
 ---
-hero: https://res.cloudinary.com/no-adjustments-needed-llc/image/upload/w_1700,c_scale/v1598891063/IMG_3197_tebbix.jpg
+hero: 
+  - IMG_3197.jpg
+  - IMG_4793.jpg
+  - home-4.jpg
+  - IMG_1514.jpg
 action:
   main: Become a Member!
   subtitle: We call patients members, too!

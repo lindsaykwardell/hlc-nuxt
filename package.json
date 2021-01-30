@@ -23,6 +23,7 @@
     "cssnano": "^4.1.10",
     "dayjs": "^1.8.35",
     "nuxt": "^2.14.0",
+    "opti-image": "^0.10.0",
     "postcss-nested": "^4.2.3",
     "vuetensils": "^0.7.4"
   },

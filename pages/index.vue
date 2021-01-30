@@ -1,25 +1,25 @@
 <template>
   <Layout :pages="pages" activePage="/">
     <div class="hero overflow-hidden m-auto relative my-8 shadow-lg">
-      <!-- <CallToAction class="bg-hlc-green-500 text-white">
-        <span>{{ content.action.main }}</span
-        ><br />
-        <span class="text-xs italic" role="label">{{
-          content.action.subtitle
-        }}</span>
-      </CallToAction> -->
-      <img :src="content.hero" alt="Healthy Living Community hero image" />
+      <opti-image
+        :key="heroImg"
+        :src="`/${content.hero[heroImg]}`"
+        alt="Healthy Living Community hero image"
+        class="w-full object-cover"
+      />
     </div>
     <StandardTemplate>
       <nuxt-content :document="content" />
       <div class="flex flex-col md:flex-row">
         <aside class="w-full md:w-1/4">
-          <div class="bg-white shadow md:mr-3 mb-4 p-2">
+          <div class="bg-white shadow md:mr-3 mb-4">
             <h3>Upcoming Events</h3>
             <img :src="events[0].image" alt="Event image" />
             <hr />
             <h5 class="text-left px-2">Title: {{ events[0].title }}</h5>
-            <h5 class="text-left px-2">When: {{ formatDate(events[0].date) }}</h5>
+            <h5 class="text-left px-2">
+              When: {{ formatDate(events[0].date) }}
+            </h5>
             <div class="p-4">
               <nuxt-content :document="events[0]" />
             </div>
@@ -58,6 +58,12 @@ export default {
       events,
       notices
     };
+  },
+  data: () => ({
+    heroImg: 0
+  }),
+  mounted() {
+    this.heroImg = Math.round(Math.random() * (this.content.hero.length - 1));
   }
 };
 </script>
