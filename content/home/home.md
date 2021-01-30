@@ -4,6 +4,7 @@ hero:
   - IMG_4793.jpg
   - home-4.jpg
   - IMG_1514.jpg
+  - garden-gate.jpg
 action:
   main: Become a Member!
   subtitle: We call patients members, too!
