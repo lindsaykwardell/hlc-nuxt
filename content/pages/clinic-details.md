@@ -44,11 +44,15 @@ hours:
 
 Healthy Living Community is here to support you and your family through these uncertain times. We are offering:
 
-- Tele-medicine visits with Dr. Kerry
-- Outdoor visits under the willow tree in the clinic garden
+- Tele-medicine visits with our providers
+- Outdoor visits in our open-air pavilion in the garden
+- Testing for acute COVID-19 symptoms
+- Appointments to discuss:
+  - The benefits and risks of vaccination
+  - Acute and long-haul symptoms
+  - Ivermectin prophylaxis
 - 24/7 text/phone availability for urgent questions
 - Please only reserve calls between the hours 9pm-8am for very urgent questions/concerns. If a question is not urgent and could be answered the following day during working hours please consider waiting.
-- Texting is probably the quickest way to get a response! You can also send messages through the ChARM portal-- Dr. Kerry will try to answer same or next day.
 - Online events and in-person masked events
 - Email updates in our newsletter
 - Helpful Facebook posts

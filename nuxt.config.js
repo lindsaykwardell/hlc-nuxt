@@ -30,6 +30,14 @@ export default {
         rel: "stylesheet",
         href:
           "https://fonts.googleapis.com/css2?family=Mulish:wght@500;700&family=Lato&family=Merriweather&display=swap"
+      },
+    ],
+    script: [
+      {
+        src: '//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'
+      },
+      {
+        src: '/mc.js'
       }
     ]
   },
