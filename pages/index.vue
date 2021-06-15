@@ -11,7 +11,7 @@
     <StandardTemplate>
       <nuxt-content :document="content" />
       <div class="flex flex-col md:flex-row">
-        <aside class="w-full md:w-1/4 bg-white shadow">
+        <aside class="w-full md:w-1/4 mb-4 md:mb-0 bg-white shadow">
           <div class="mb-4">
             <h3>Upcoming Events</h3>
             <img :src="events[0].image" alt="Event image" />

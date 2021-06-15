@@ -34,7 +34,7 @@ export default {
 
 <style lang="postcss" scoped>
 .col {
-  @apply flex-1 p-4;
+  @apply flex-1;
 }
 
 ul.hours {
