@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt-ts",
-    "build": "nuxt-ts build",
-    "start": "nuxt-ts start",
-    "generate": "nuxt-ts generate",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
     "deploy": "yarn update-content && git checkout master && git pull && git merge development && git push origin master && git checkout development",
     "update-content": "git checkout update-content && git pull && git merge development && git checkout development && git merge update-content && git push origin development"
   },
@@ -15,21 +15,21 @@
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@nuxt/content": "^1.5.0",
-    "@nuxt/typescript-runtime": "^1.0.0",
     "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/pwa": "^3.0.2",
-    "autoprefixer": "^9.8.6",
-    "cssnano": "^4.1.10",
+    "autoprefixer": "^10.2.6",
+    "cssnano": "^5.0.6",
     "dayjs": "^1.8.35",
     "nuxt": "^2.14.0",
     "opti-image": "^0.10.0",
-    "postcss-nested": "^4.2.3",
-    "vuetensils": "^0.7.4"
+    "postcss-nested": "^5.0.5",
+    "vuetensils": "^0.8.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.0",
     "@nuxt/typescript-build": "^2.0.2",
-    "@nuxtjs/tailwindcss": "^2.1.0"
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "postcss": "^8.3.5"
   }
 }

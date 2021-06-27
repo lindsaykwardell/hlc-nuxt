@@ -79,9 +79,6 @@ export default {
     address() {
       return this.content.address;
     }
-  },
-  mounted() {
-    console.log(this.content);
   }
 };
 </script>

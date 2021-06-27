@@ -62,6 +62,9 @@
 </template>
 
 <script>
+import SubLink from './SubLink.vue'
+import Phone from './Phone.vue'
+
 export default {
   props: {
     pages: {
@@ -72,6 +75,10 @@ export default {
       type: String,
       default: "/"
     }
+  },
+  components: {
+    SubLink,
+    Phone
   }
 };
 </script>
