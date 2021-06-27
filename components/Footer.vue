@@ -55,6 +55,8 @@
             />
           </a>
         </div>
+        <hr class="mt-3" />
+        <McSubscribe />
       </div>
       <div class="md:w-1/4 lg:w-1/5 p-3 text-center md:text-left">
         <h5 class="text-current">Additional Links</h5>
@@ -62,7 +64,10 @@
           <nuxt-link to="/board" class="hover:underline">
             Meet the Board
           </nuxt-link>
-          <nuxt-link to="/become-a-member" class="hover:underline">
+          <nuxt-link
+            to="/membership#how-to-join-our-community"
+            class="hover:underline"
+          >
             Become a Member
           </nuxt-link>
           <a

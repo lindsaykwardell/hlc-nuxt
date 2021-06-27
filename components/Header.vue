@@ -11,7 +11,7 @@
       mb-6
       shadow-lg 
       border-t-8
-      bg-gray-300
+      bg-hlc-brown-100
       border-hlc-magenta-500"
       >
         <div class="lg:flex-grow">

@@ -17,14 +17,16 @@
           allowfullscreen=""
         ></iframe>
       </div>
-      <div class="flex flex-col md:flex-row p-4 pt-16">
-        <div class="col" role="Contact information">
+      <div class="flex flex-col md:flex-row pt-16 justify-around">
+        <div class="w-full md:w-1/4">
           <h3>Address:</h3>
           <p>
             {{ address[0] }}<br />
             {{ address[1] }}<br />
             {{ address[2] }}
           </p>
+        </div>
+        <div class="w-full md:w-1/4">
           <h3 class="py-4">Contact:</h3>
           <div
             class="grid grid-cols-5"
@@ -54,6 +56,8 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="flex flex-col md:flex-row pt-16">
         <Hours
           v-for="hours in content.hours"
           :key="hours.title"
@@ -73,7 +77,7 @@ export default {
   props: ["content"],
   computed: {
     address() {
-      return this.content.address
+      return this.content.address;
     }
   },
   mounted() {

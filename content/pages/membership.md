@@ -61,7 +61,7 @@ I am so appreciative of the community Dr. Kerry is building and that my family i
 </div>
 <div class="w-full lg:w-1/2 p-6 lg:rounded-tr-lg bg-hlc-yellow-100 shadow">
 
-Dr. Kerry Schaefer saved my life!
+"Dr. Kerry Schaefer saved my life!
 I met Dr. Kerry right around the third month after my son just passed. 
 
 Kindness<br />
@@ -78,25 +78,25 @@ She is an incredible doctor. She listens to you, never assumes she knows, and fi
 
 She saved my life. Physically. Mentally. Emotionally.
 
-She is a great gift to all who have the opportunity to have her as their doctor.
+She is a great gift to all who have the opportunity to have her as their doctor."
 
 </div>
 <div class="w-full lg:w-1/2 p-6 lg:rounded-bl-lg bg-hlc-magenta-100 shadow">
 
- Dr. Kerry Schaefer has been my rock and greatest support in all aspects of my life for the last three years. I am so fortunate to be under her care and I could not be more grateful 💜
+"Dr. Kerry Schaefer has been my rock and greatest support in all aspects of my life for the last three years. I am so fortunate to be under her care and I could not be more grateful 💜
 
- On top of helping me manage my supplements and medication changes, Dr. Kerry has provided me referrals to other healthcare providers who specialize in my conditions, helped get me connected to a non-profit attorney to help me receive disability, guided me through my toughest mental health days, and given me numerous bodywork adjustments that help keep my health on track and my mindset more optimistic. 
+On top of helping me manage my supplements and medication changes, Dr. Kerry has provided me referrals to other healthcare providers who specialize in my conditions, helped get me connected to a non-profit attorney to help me receive disability, guided me through my toughest mental health days, and given me numerous bodywork adjustments that help keep my health on track and my mindset more optimistic. 
 
 One of the things I really appreciate about Dr. Kerry is her desire to see me succeed and find peace. She helps me achieve this through small daily things, one of which is the use of conscious language, in person, and in our correspondence. I have fun with her trying to find the best way to communicate what I’m going through, without bogging myself down with negative self-talk (as often as possible, we all know sometimes it’s helpful to vent without trying to put a positive twist on it, and Dr. Kerry supports me through those moments as well). 
 
 I know I am loved and cared for by Dr. Kerry, and it feels like she has brought my family in as an extension of her own. You don’t find people like her in life very often, and when you do, it's like striking gold. She is truly a precious gem of a human and one I intend to treasure for as long as I possibly can. 
 
-If you are like me and have struggled to find proper support and medical care from common medical professionals your whole life, I think you will be very happy to find Dr. Kerry is exactly the fit you needed all along. 
+If you are like me and have struggled to find proper support and medical care from common medical professionals your whole life, I think you will be very happy to find Dr. Kerry is exactly the fit you needed all along."
 
 </div>
 <div class="w-full lg:w-1/2 p-6 lg:rounded-br-lg bg-hlc-blue-100 shadow">
 
- Healthy Living Community changed my life and I’m inspired to invite my friends and family to join this amazing community. 
+"Healthy Living Community changed my life and I’m inspired to invite my friends and family to join this amazing community. 
 
 I’ve always struggled with my health. I was often sick, depressed and anxious, and friendless. Doctors talked to me for five minutes, gave me a pill that would treat symptoms, but caused more problems. I felt life was not worth living, and I wanted to die. 
  
@@ -108,7 +108,7 @@ I started to make friends. I got married, and had a child. During that time, I m
  
 I donate to the Healthy Living Community Patient Fund every month because the last 3 ½ years that I have had a community and people to support me have been amazing. My health and happiness have increased faster than when I did it all by myself. I would not be who I am now without the support of this community, and I freakin’ love myself.
 
-And that’s why I’m asking you to join me in spreading the word!
+And that’s why I’m asking you to join me in spreading the word!"
 
 </div>
 </div>
@@ -117,8 +117,20 @@ And that’s why I’m asking you to join me in spreading the word!
 
 ## How to join our community
 
-It's easy! Just call the clinic number (971-231-4536) or email pearl@healthylivingfamilymedicine.com. You can also push the "Become a Member" button below!
+It's easy! Just click the link below! You will be redirected to a Membership Form which must be submitted prior to scheduling an appointment for you or a family member.
 
-After connecting with us, you will be asked to complete a Membership Form which must be submitted prior to scheduling an appointment for you/a family member. Membership must be renewed at the end of each year by completing a new Membership Form.
+[Healthy Living Community Membership Form](https://na4.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=f2ffa18c-1dbb-4131-8e14-57a5dbbd4db9&env=na4&acct=0e6fd90f-71e8-49ae-a981-177bebc0810f&v=2)
+
+After submitting the form, you will be contacted to schedule your first appointment. If you have any difficulty filling out the form, please call the office or email Liz at liz@hlcomm.org. 
+
+We look forward to having you join our community!
+
+<hr />
+<p class="text-sm italic">
+  You are only required to fill out the form once, when you first become an HLC memeber. You will be automatically renewed for each subsequent year. You can always make changes to your membership payments, or family members connected with your membership, by contacting us with the change request.
+</p>
+<p class="text-sm italic">
+If your credit card or bank account information changes, please remember to contact us and update your payment information.
+</p>
 
 </section>
