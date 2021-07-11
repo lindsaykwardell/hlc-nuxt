@@ -14,14 +14,14 @@
         <aside class="w-full md:w-1/4 mb-4 md:mb-0 bg-white shadow">
           <div class="mb-4">
             <h3>Upcoming Events</h3>
-            <img :src="events[0].image" alt="Event image" />
+            <img :src="event.image" alt="Event image" />
             <hr class="w-5/6 m-auto" />
-            <h5 class="text-left px-2">Title: {{ events[0].title }}</h5>
-            <h5 class="text-left px-2">
-              When: {{ formatDate(events[0].date) }}
+            <h5 class="text-left px-2">Title: {{ event.title }}</h5>
+            <h5 class="text-left px-2" v-if="new Date(event.date).getFullYear() !== 2100" >
+              When: {{ event.displayDate ? event.displayDate : formatDate(event.date) }}              
             </h5>
             <div class="p-4">
-              <nuxt-content :document="events[0]" />
+              <nuxt-content :document="event" />
             </div>
           </div>
         </aside>
@@ -41,7 +41,7 @@ import dayjs from "dayjs";
 export default {
   methods: {
     formatDate(date) {
-      return dayjs(date).format("MM/DD/YYYY h:mm a");
+      return dayjs(date).format("M/D/YY h:mm a");
     }
   },
   async asyncData({ $content, params }) {
@@ -49,9 +49,11 @@ export default {
       .where({ order: { $gte: 0 } })
       .fetch();
     const content = await $content("home/home").fetch();
-    const events = await $content("home/events")
+    const event = (await $content("home/events")
+      .where({ date: { $gt: new Date() } })
+      .sortBy("date")
       .limit(1)
-      .fetch();
+      .fetch())[0];
     const notices = await $content("home/notices")
       .sortBy("createdAt", "desc")
       .limit(5)
@@ -60,7 +62,7 @@ export default {
     return {
       pages,
       content,
-      events,
+      event,
       notices
     };
   },

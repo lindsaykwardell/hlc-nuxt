@@ -26,7 +26,7 @@ At Healthy Living Community (HLC), we offer a different kind of healthcare. We s
 * Are committed to taking action to improve their health and well-being, wherever they are on their health journey.
 * Like us, believe that the healthcare and insurance industries are broken, and want to explore new models of care.
 
-We are a registered 501(c)(3) nonprofit that offers affordable patient-centered care in a beautiful and welcoming setting. We offer a sliding scale membership and office visit model, allowing our community members to pay what they can for the care they want and deserve. We focus on root causes of symptoms, and work with our patients on treatment plans that are both realistic and effective. Our patient care integrates medications with diet and exercise, as well as referrals to massage, acupuncture, naturopathic medicine and various other modalities. Our goal is to do this in a compassionate, cost-effective, and earth-friendly manner.
+We are a registered 501(c)(3) nonprofit that offers affordable, patient-centered, inclusive, and trauma-informed care in a beautiful and welcoming setting. We offer a sliding scale membership and office visit model, allowing our community members to pay what they can for the care they want and deserve. We focus on root causes of symptoms, and work with our patients on treatment plans that are both realistic and effective. Our patient care integrates medications with diet and exercise, as well as referrals to massage, acupuncture, naturopathic medicine and various other modalities. Our goal is to do this in a compassionate, cost-effective, and earth-friendly manner.
 
 To learn more about our model of care and the community we’re building, read more [About Us](/about).
 
@@ -43,6 +43,10 @@ Every person should be able to access the holistic care they need and deserve. O
 **_Health is holistic_**
 
 Mind, body, and spirit-- health encompasses all aspects of our being and at HLC we ensure that the care we deliver affirms that.
+
+**_Healthcare needs to be inclusive and trauma-informed_**
+
+Healthy Living Community welcomes people of all identities and lived experiences. We know and celebrate that everybody and every body is different. We acknowledge that medical trauma is real, and our goal is to support you in finding a safe home for your medical care that allows you to embrace healing when and how you are ready for it. 
 
 **_Healthcare should be a conversation, and there is no "one size fits all" model for health_**
 
