@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "npm run update-content && git checkout master && git pull && git merge development && git push origin master && git checkout development",
+    "deploy": "npm run update-content && git checkout master && git pull && git merge development && git push origin master && git checkout development && git merge master",
     "update-content": "git checkout update-content && git pull && git merge development && git checkout development && git merge update-content && git push origin development"
   },
   "dependencies": {

@@ -2,15 +2,25 @@
 title: Membership
 template: StandardTemplate
 order: "3"
----<section>
+---
 
-# Membership is the BEST
+<section>
 
-When you become a Healthy Living Community member, you are joining a supportive community network of health that will holistically support you in achieving your health goals.
+# Healthy Community Grows Healthy Individuals
 
-We fundamentally value each and every one of our members and the individual talents/gifts/ideas/worldview they bring to our community.
+When you become a Healthy Living Community member, you are joining a supportive community health network that will holistically support you in achieving your health goals.
 
-## Joining our community has numerous benefits! As an HLC member, you get:
+By investing in community health, an individual is investing in their own health as well as the wellness of others. Members who are able are encouraged to pay more to support both their own health and the health of all community members.
+
+We fundamentally value each and every one of our members and the individual talents, gifts, ideas, and worldview they bring to our community.
+
+</section>
+
+<section>
+
+## Membership Benefits
+
+Joining our community has numerous benefits! As an HLC member, you get:
 
 - Our calm, welcoming clinic environment.
 - The ability to select the duration of your appointment to meet your healthcare needs
@@ -23,7 +33,11 @@ We fundamentally value each and every one of our members and the individual tale
 
 <section>
 
-## How membership works:
+## How membership works
+
+We are creating a model of community-supported health care. By investing in community health, an individual is investing in their own health as well as the wellness of others. 
+
+As communicated by one of our community wellness partners (the Reframe Collective), "I care for my community, and my community cares for me."
 
 **Membership Fee**
 
@@ -47,7 +61,7 @@ You also have the option to request a superbill to submit to your insurance for 
 
 <section class="full">
 
-## Here's what some of our members are saying:
+## Here's what some of our members are saying
 
 <div class="flex flex-wrap">
 <div class="w-full lg:w-1/2 p-6 lg:rounded-tl-lg bg-hlc-green-100 shadow">

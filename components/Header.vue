@@ -2,17 +2,19 @@
   <VResize>
     <template #default="{ width }">
       <header
-        class="flex 
-      flex-col 
-      lg:flex-row 
-      lg:items-center 
-      px-5 
+        class="flex
+      flex-col
+      lg:flex-row
+      lg:items-center
+      px-5
       py-3
       mb-6
-      shadow-lg 
+      shadow-lg
       border-t-8
       bg-hlc-brown-100
-      border-hlc-magenta-500"
+      border-hlc-magenta-500
+      text-center
+      lg:text-left"
       >
         <div class="lg:flex-grow">
           <div class="flex mb-4 lg:mb-0 items-center">
@@ -21,7 +23,7 @@
                 <img
                   src="hlc-logo-stacked-color.svg"
                   alt="Healthy Living Community Logo"
-                  class="logo stacked lg:ml-12"
+                  class="logo stacked lg:ml-12 m-auto"
                 />
               </nuxt-link>
             </div>

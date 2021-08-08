@@ -1,6 +1,6 @@
 <template>
   <nav class="flex flex-col lg:items-end w-full sm:w-auto">
-    <div class="flex flex-col lg:flex-row justify-end w-full lg:w-auto" role="nav-links">
+    <div class="flex flex-col md:flex-row justify-end w-full lg:w-auto" role="nav-links">
       <nuxt-link
         class="w-full lg:w-auto text-xl px-4 py-2 mx-2 font-mulish rounded-lg transition duration-100"
         :class="{
@@ -13,7 +13,7 @@
         >{{ page.title }}</nuxt-link
       >
     </div>
-    <div class="flex flex-col sm:flex-row items-center pt-2" role="contact">
+    <div class="flex flex-col sm:flex-row items-center pt-2 justify-center" role="contact">
       <SubLink
         role="address"
         icon="home"
@@ -26,12 +26,12 @@
         role="patient-portal"
         :icon="['fa', 'external-link-alt']"
         href="https://phr.charmtracker.com/login.sas?FACILITY_ID=9fac109f10b85efdeadfd56aed2ab60a43b1154fc374a4756c8f7ea08edb2f3fd95fcbc3b76e32a2"
-        class="hidden sm:flex"
+        class="hidden md:flex"
       >
         Go to Patient Portal <br />
         (opens in new window)
       </SubLink>
-      <SubLink role="social-media-links" separateHover class="hidden sm:flex">
+      <SubLink role="social-media-links" separateHover class="hidden md:flex">
         <template #default="{hoverClass}">
           <a
             href="https://www.facebook.com/HealthyLivingCommunityNP"

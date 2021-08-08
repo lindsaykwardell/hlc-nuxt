@@ -17,7 +17,7 @@
             type="email"
             value=""
             name="EMAIL"
-            class="w-full text-black p-1"
+            class="block w-64 lg:w-full text-black p-1 m-auto md:m-0"
             id="mce-EMAIL"
           />
         </div>
