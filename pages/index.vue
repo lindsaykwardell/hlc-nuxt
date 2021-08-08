@@ -10,8 +10,8 @@
     </div>
     <StandardTemplate>
       <nuxt-content :document="content" />
-      <div class="flex flex-col md:flex-row">
-        <aside class="w-full md:w-1/4 mb-4 md:mb-0 bg-white shadow">
+      <div class="flex flex-col lg:flex-row">
+        <aside class="w-full lg:w-1/4 mb-4 lg:mb-0 bg-white shadow">
           <div v-if="event" class="mb-4">
             <h3>Upcoming Events</h3>
             <img :src="event.image" alt="Event image" />
@@ -25,7 +25,7 @@
             </div>
           </div>
         </aside>
-        <div class="w-full md:w-3/4 md:ml-3">
+        <div class="w-full lg:w-3/4 lg:ml-3">
           <section v-for="notice in notices" :key="notice.slug">
             <nuxt-content :document="notice" />
           </section>
