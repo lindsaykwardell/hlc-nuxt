@@ -12,13 +12,13 @@
       <nuxt-content :document="content" />
       <div class="flex flex-col md:flex-row">
         <aside class="w-full md:w-1/4 mb-4 md:mb-0 bg-white shadow">
-          <div class="mb-4">
+          <div v-if="event" class="mb-4">
             <h3>Upcoming Events</h3>
             <img :src="event.image" alt="Event image" />
             <hr class="w-5/6 m-auto" />
-            <h5 class="text-left px-2">Title: {{ event.title }}</h5>
+            <h5 class="text-left px-2">{{ event.title }}</h5>
             <h5 class="text-left px-2" v-if="new Date(event.date).getFullYear() !== 2100" >
-              When: {{ event.displayDate ? event.displayDate : formatDate(event.date) }}              
+              When: {{ event.displayDate ? event.displayDate : formatDate(event.date) }}
             </h5>
             <div class="p-4">
               <nuxt-content :document="event" />

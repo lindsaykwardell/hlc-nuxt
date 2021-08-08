@@ -1,5 +1,5 @@
 ---
-title: Thriving on a Restrictive Food Plan
+title: Thriving on a Personalized Food Plan
 date: 2021-08-19T19:30:00-07:00
 image: food-plan-event.jpg
 ---
