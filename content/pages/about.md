@@ -109,35 +109,6 @@ So here is Windy, ready to step into a part-time position in the Healthy Living 
 
 <section>
 
-## Meet Karen Davis, MS, CNS®
-
-<div class="sm:float-left portrait">
-
-![](KarenD19.jpg)
-
-</div>
-
-Karen is a clinical nutritionist who began her career in evidenced-based nutrition when she recognized the key role food choice plays in preventing many of the chronic diseases we face today.
-
-After completing her Master of Science in Nutrition, Karen went on to earn a national credential with the Board for Certification of Nutrition Specialists®.  Karen participated in a therapeutic ketogenic diet training course through the American Nutrition Association and passed a national exam to become a Certified Ketogenic Nutrition Specialist℠.  As a member of the Healthy Living Community team, Karen provides EAV (Vega) Food Sensitivity Testing as well as one-on-one nutritional counseling. 
-
-Karen also teaches group classes and offers the following on a regular basis:
-
-<div class="clear-both"></div>
-
-- RESTART® Sugar Detox Class – A 5-week program to help you eliminate sugar from your diet while being fully supported with classes, recipes and more.
-- 6-Week Ketogenic Diet Challenge – A 6-week program to help you get into ketosis using a well-balance keto diet. Includes classes, meal plans and more. 
-
-
-Karen is the owner of Karen Davis Nutrition where she is able to bring her own unique approach to help and support her clients to make successful, long lasting changes to their food and lifestyle choices.  
-
-When not nerding out on all things nutrition, you will find Karen working out, cooking, reading, and exploring the beautiful Pacific Northwest with her rescue dog, Lucy.
-
-
-</section>
-
-<section>
-
 ## Meet Pearl, MA
 
 Pearl is Dr. Kerry's medical assistant and office manager. Having grown up in a natural medicine minded family, working in a functional medicine environment is a perfect fit. She enjoys serving a population in which health is approached in a holistic way. She spends her free time adventuring with her two daughters.
