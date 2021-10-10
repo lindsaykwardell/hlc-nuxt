@@ -30,14 +30,17 @@ export default {
         rel: "stylesheet",
         href:
           "https://fonts.googleapis.com/css2?family=Mulish:wght@500;700&family=Lato&family=Merriweather&display=swap"
-      },
+      }
     ],
     script: [
       {
-        src: '//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'
+        src: "//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"
       },
       {
-        src: '/mc.js'
+        src: "/mc.js"
+      },
+      {
+        src: "https://identity.netlify.com/v1/netlify-identity-widget.js"
       }
     ]
   },
@@ -49,7 +52,11 @@ export default {
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
    */
-  plugins: ["~/plugins/constant.js", "~/plugins/vue-formulate.js", "~/plugins/opti-image.js"],
+  plugins: [
+    "~/plugins/constant.js",
+    "~/plugins/vue-formulate.js",
+    "~/plugins/opti-image.js"
+  ],
   /*
    ** Auto import components
    ** See https://nuxtjs.org/api/configuration-components
@@ -107,15 +114,15 @@ export default {
   },
   generate: {
     async routes() {
-      const { $content } = require('@nuxt/content')
+      const { $content } = require("@nuxt/content");
 
-      const posts = await $content(`article`).fetch()
+      const posts = await $content(`article`).fetch();
 
-      return posts.map((post) => ({
+      return posts.map(post => ({
         route: post.path,
-        payload: post,
-      }))
-    },
+        payload: post
+      }));
+    }
   },
   telemetry: true
 };
