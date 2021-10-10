@@ -76,7 +76,12 @@ h5 {
 }
 
 .portrait {
-  @apply overflow-hidden;
-  max-height: 20rem;
+  @apply overflow-hidden p-3;
   width: 18rem;
+
+  img {
+    @apply w-full object-cover h-64 shadow-lg;
+    border-radius: 2.5rem;
+    padding: 0 !important;
+  }
 }

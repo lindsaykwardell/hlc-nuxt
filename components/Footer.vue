@@ -19,14 +19,14 @@
       <div class="md:w-1/2 lg:w-1/5 p-3 text-center md:text-left">
         <h5 class="text-current">Purchase Supplements</h5>
         <p class="pb-8">
-          Visit our Supplements page to find approved options.
+          Visit our Fullscript page to find approved supplements with your member discount.
         </p>
-        <a
-          href="https://wellevate.me/kerry-schaefer-1"
-          class="px-4 py-3 bg-hlc-brown-700 hover:bg-hlc-brown-600 transition duration-200 hover:shadow-md rounded text-white"
-        >
-          Supplements
-        </a>
+        <a href="https://us.fullscript.com/welcome/kschaefer" target="_top"
+          ><img
+            src="https://assets.fullscript.com/buttons/4.jpg"
+            alt="Purchase products through our Fullscript virtual dispensary."
+            border="0"
+        /></a>
       </div>
       <div class="md:w-1/2 lg:w-1/5 p-3 text-center md:text-left">
         <h5 class="text-current">Social Media</h5>

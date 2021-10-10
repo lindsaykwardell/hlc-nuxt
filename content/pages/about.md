@@ -109,6 +109,22 @@ So here is Windy, ready to step into a part-time position in the Healthy Living 
 
 <section>
 
+## Meet Dr. Susanne Lietz, ND
+
+<div class="sm:float-left portrait">
+
+![](susanne-lietz.jpeg)
+
+</div>
+
+Dr. Susanne completed her naturopathic medical training at Bastyr University in Seattle followed by a primary-care residency at the National University of Natural Medicine. Her training and practice are based on the naturopathic philosophy, which holds that each individual has an innate drive and ability to heal. Using this foundation, Dr. Susanne is passionate about practicing patient-centered medicine and brings naturopathic modalities including botanical medicine, body work, and homeopathy into her visits. 
+
+An ideal day off for Dr. Susanne's includes being active in nature, along side a friend followed by good food! She also enjoys playing ultimate frisbee, learning about sustainability and working in the garden. 
+
+</section>
+
+<section>
+
 ## Meet Tami Butterfield, BScN, MScN, CN, and CNS Candidate
 
 Tami is a Holistic Nutritionist who loves having conversations with people about all
@@ -130,6 +146,23 @@ Outside of her work as a Nutritionist, Tami loves spending quality time with her
 
 ## Meet Pearl, MA
 
-Pearl is Dr. Kerry's medical assistant and office manager. Having grown up in a natural medicine minded family, working in a functional medicine environment is a perfect fit. She enjoys serving a population in which health is approached in a holistic way. She spends her free time adventuring with her two daughters.
+Pearl is HLC's medical assistant and office manager. Having grown up in a natural medicine minded family, working in a functional medicine environment is a perfect fit. She enjoys serving a population in which health is approached in a holistic way. She spends her free time adventuring with her two daughters.
+
+</section>
+
+<section>
+
+## Meeet Liz Jones, Community Connections Specialist
+
+<div class="sm:float-left portrait">
+
+![](liz-jones.jpeg)
+
+</div>
+
+Liz has been working as a professional aerial dancer for the last 7 years, which is how she met Dr. Kerry. She is now on her own path to becoming a physician. Liz started out shadowing, and soon wanted to be more integrated into this wonderful community and clinic. You will see Liz at HLC events and in messages, and she will be at the clinic more and more as the year continues. She is looking forward to meeting you all!
+
+Liz received two degrees from the University of Oregon, a BS in Dance, and  BS in Human Physiology. She took the skills she learned from these programs, and those she learned from working with nonprofit organizations from a young age to become integrated into the nonprofit sector of Portland. She directs a youth performance company for a non profit dance organization, and has been part of the leadership team with that nonprofit for 5 years. She recently joined Healthy Living Community in an administrative and community connection role. She has extensive knowledge around creating new processes and implementing new procedures into small businesses. She also has held roles that required fundraising organization, social media content creation, and mass electronic communication. Liz is a non traditional premed student, and will be continuing to serve the medical community in Portland through her role at Healthy Living Community.
+
 
 </section>
