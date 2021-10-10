@@ -26,6 +26,7 @@
             src="https://assets.fullscript.com/buttons/4.jpg"
             alt="Purchase products through our Fullscript virtual dispensary."
             border="0"
+            class="m-auto"
         /></a>
       </div>
       <div class="md:w-1/2 lg:w-1/5 p-3 text-center md:text-left">
