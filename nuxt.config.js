@@ -105,5 +105,17 @@ export default {
       brands: true
     }
   },
+  generate: {
+    async routes() {
+      const { $content } = require('@nuxt/content')
+
+      const posts = await $content(`article`).fetch()
+
+      return posts.map((post) => ({
+        route: post.path,
+        payload: post,
+      }))
+    },
+  },
   telemetry: true
 };

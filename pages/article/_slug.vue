@@ -54,7 +54,7 @@ export default {
 
     const article =
       (
-        await $content("articles")
+        await $content("article")
           .where({
             path: { $contains: params.slug }
           })
