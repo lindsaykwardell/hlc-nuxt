@@ -109,6 +109,25 @@ So here is Windy, ready to step into a part-time position in the Healthy Living 
 
 <section>
 
+## Meet Tami Butterfield, BScN, MScN, CN, and CNS Candidate
+
+Tami is a Holistic Nutritionist who loves having conversations with people about all
+things food-related.
+
+For over 20 years, she has utilized herbs and essential oils in various moments to support health for herself, her family, and her friends. Through the experiences with these modalities, she realized they alone didn’t work as well as they could. With this realization, it became clear there were foundations of health that provided the base for health and disease. The foundations of health she became most interested in and wanted to explore was nutrition and lifestyle.
+
+After many years of holding different roles within various business markets, she decided to change her career path and return to school. With a desire to have a deeper understanding of food, nutrition, and health, she built a foundation of knowledge. She earned both a Bachelor’s of Science and a Master’s of Science in Nutrition from the National University of Natural Medicine (NUNM). She is a certified Nutritionist in the state of Washington, and is currently completing requirements to become a Certified Nutrition Specialist, which is an advanced nutrition credential.
+
+Tami has a holistic approach to her nutrition and lifestyle services. By assessing; food relationships, food sensitivities, nutrition imbalances, and lifestyle factors relating to chronic diseases, she works with clients to thoughtfully develop personalized nutrition plans to fit their current and specific needs. In addition, she follows a weight-neutral approach that supports all bodies. She believes weight is not THE problem, but maybe a problem, and therefore she places focus on whole-body health that is supportive and inclusive of all bodies.
+
+Her areas of special interest include gut health, hormone support (especially for women 35+), and mental health. By utilizing food, nutrients, mindset, and lifestyle modifications, she helps her clients discover their ability to have long-lasting health and wellbeing.
+
+Outside of her work as a Nutritionist, Tami loves spending quality time with her family (which includes her two dogs- her fur babies), in the garden, reading books (mostly nutrition-related), hiking, and camping when she can, and catching up on her favorite shows.
+
+</section>
+
+<section>
+
 ## Meet Pearl, MA
 
 Pearl is Dr. Kerry's medical assistant and office manager. Having grown up in a natural medicine minded family, working in a functional medicine environment is a perfect fit. She enjoys serving a population in which health is approached in a holistic way. She spends her free time adventuring with her two daughters.
