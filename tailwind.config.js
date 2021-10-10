@@ -7,7 +7,7 @@
 const { colors, fontFamily } = require("tailwindcss/defaultTheme");
 
 module.exports = {
-  mode: 'jit',
+  mode: "jit",
   theme: {
     colors: {
       ...colors,
@@ -87,7 +87,7 @@ module.exports = {
     }
   },
   variants: {},
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")],
   purge: {
     // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css
     enabled: process.env.NODE_ENV === "production",

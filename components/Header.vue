@@ -21,7 +21,7 @@
             <div class="flex-grow">
               <nuxt-link to="/">
                 <img
-                  src="hlc-logo-stacked-color.svg"
+                  src="/hlc-logo-stacked-color.svg"
                   alt="Healthy Living Community Logo"
                   class="logo stacked lg:ml-12 m-auto"
                 />

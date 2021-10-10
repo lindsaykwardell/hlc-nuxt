@@ -9,7 +9,7 @@
       class="flex flex-col lg:flex-row justify-center items-center p-5 container bg-hlc-magenta-500 shadow-inner"
     >
       <img
-        src="hlc-logo-mark-white.png"
+        src="/hlc-logo-mark-white.png"
         alt="Healthy Living Community Logo"
         class="logo stacked flex-shrink"
         style="width: 200px"
