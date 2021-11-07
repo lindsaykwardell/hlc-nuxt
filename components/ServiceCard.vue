@@ -1,11 +1,11 @@
 <template>
   <div class="sm:w-1/2 lg:w-1/3">
     <div ref="cardBody" class="card-body shadow-md p-3 m-4">
-      <div class="relative overflow-hidden m-3">
+      <div class="relative overflow-hidden">
         <img
-          src="/blur-river-250x130.jpg"
+          :src="image || '/blur-river-250x130.jpg'"
           :alt="title"
-          class="w-full m-auto rounded"
+          class="w-full m-auto rounded h-[185px] object-cover"
         />
         <div class="card-title w-full h-full p-6">
           <h4>{{ title }}</h4>
@@ -22,7 +22,7 @@
         :class="{ 'all-content': displayAllContent }"
       >
         <button
-          class="w-full lg:w-auto font-mulish rounded-lg transition duration-100 hover:underline hover:text-hlc-green-600"
+          class="w-full lg:w-auto font-mulish rounded-lg transition duration-100 hover:underline hover:text-hlc-green-600 pointer-events-auto"
           @click="toggleContent"
         >
           {{ displayAllContent ? "Read Less" : "Read More" }}
@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  props: ["title"],
+  props: ["title", "image"],
   data() {
     return {
       doesTextOverflow: false,
@@ -47,8 +47,7 @@ export default {
     }
   },
   mounted() {
-    console.log(this.$refs.cardContent.offsetHeight);
-    this.doesTextOverflow = this.$refs.cardContent.offsetHeight > 250;
+    this.doesTextOverflow = this.$refs.cardContent?.offsetHeight > 250;
   }
 };
 </script>
@@ -85,6 +84,7 @@ export default {
       rgba(255, 255, 255, 1) 75%
     );
     padding-bottom: 1rem;
+    pointer-events: none;
 
     &.all-content {
       height: 100%;
@@ -102,6 +102,12 @@ export default {
   text-align: center;
   display: flex;
   background: rgba(0, 0, 0, 0.452);
+
+  h4 {
+    /* @apply p-3;
+    background-color: rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(3px); */
+  }
 }
 
 h4 {
