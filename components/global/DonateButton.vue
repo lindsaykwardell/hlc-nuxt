@@ -9,6 +9,10 @@
   </a>
 </template>
 
+<script>
+export default {};
+</script>
+
 <style lang="postcss" scoped>
 .donate-button {
   @apply py-3 px-4 bg-hlc-green-400 text-white cursor-pointer rounded text-lg duration-300 shadow-md no-underline;

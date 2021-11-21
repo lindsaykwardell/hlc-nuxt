@@ -4,6 +4,10 @@
   </div>
 </template>
 
+<script>
+export default {};
+</script>
+
 <style lang="postcss">
 .template {
   section {
@@ -52,7 +56,7 @@
     }
   }
 
-  img {
+  img:not(.no-default) {
     @apply m-auto p-3;
   }
 

@@ -2,7 +2,7 @@
   <footer
     class="flex flex-col justify-center items-center mt-6 bg-hlc-dark-green-500 border-t-8 border-hlc-yellow-500 text-hlc-green-100"
   >
-    <div class="flex flex-wrap flex-col md:flex-row justify-around w-full py-4">
+    <div v-if="!hideLinks" class="flex flex-wrap flex-col md:flex-row justify-around w-full py-4 mb-6">
       <div class="md:w-1/2 lg:w-1/5 p-3 text-center md:text-left">
         <h5 class="text-current">Access the Patient Portal</h5>
         <p class="pb-8">
@@ -19,7 +19,8 @@
       <div class="md:w-1/2 lg:w-1/5 p-3 text-center md:text-left">
         <h5 class="text-current">Purchase Supplements</h5>
         <p class="pb-8">
-          Visit our Fullscript page to find approved supplements with your member discount.
+          Visit our Fullscript page to find approved supplements with your
+          member discount.
         </p>
         <a href="https://us.fullscript.com/welcome/kschaefer" target="_top"
           ><img
@@ -85,7 +86,7 @@
       </div>
     </div>
     <div
-      class="flex flex-col justify-center items-center mt-6 w-full text-hlc-green-300 bg-hlc-dark-green-600 py-4 p-2"
+      class="flex flex-col justify-center items-center w-full text-hlc-green-300 bg-hlc-dark-green-600 py-4 p-2"
     >
       <div class="pb-4 flex flex-col md:flex-row text-center">
         <span class="md:mr-2">Copyright © Healthy Living Community,</span>
@@ -95,3 +96,14 @@
     </div>
   </footer>
 </template>
+
+<script>
+export default {
+  props: {
+    hideLinks: {
+      type: Boolean,
+      default: false
+    }
+  }
+};
+</script>

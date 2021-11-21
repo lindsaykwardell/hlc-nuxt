@@ -1,6 +1,8 @@
 <template>
   <div class="relative">
-    <Header :pages="_pages" :activePage="activePage" />
+    <slot name="header">
+      <Header :pages="_pages" :activePage="activePage" />
+    </slot>
     <main>
       <slot />
     </main>
@@ -15,9 +17,7 @@
         style="width: 200px"
       />
       <div class="flex-grow">
-        <p class="text-white text-xl p-4 text-justify">
-          "{{quote}}"
-        </p>
+        <p class="text-white text-xl p-4 text-justify">"{{ quote }}"</p>
         <div class="text-center mt-4 md:text-right">
           <CallToAction
             class="text-xl bg-hlc-magenta-600 hover:bg-hlc-magenta-700"
@@ -27,7 +27,9 @@
         </div>
       </div>
     </aside>
-    <Footer />
+    <slot name="footer">
+      <Footer />
+    </slot>
   </div>
 </template>
 
