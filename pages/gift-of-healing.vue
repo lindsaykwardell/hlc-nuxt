@@ -69,10 +69,43 @@
           sit amet lorem efficitur fringilla. Nunc ac rutrum mi. Donec sed
           malesuada nisl.
         </p>
-        <div class="flex justify-center">
-          <DonateButton />
-        </div>
       </section>
+      <div class="flex items-center py-8">
+        <Card class="flex-1 bg-[#fafafa] flex flex-col">
+          <h3>Give Membership</h3>
+          <p class="flex-grow">
+            Give the gift of membership to a friend or family member. This gift
+            covers the cost of a membership for one year.
+          </p>
+          <div class="flex justify-center">
+            <DonateButton />
+          </div>
+        </Card>
+        <Card class="flex-1 h-[550px] flex flex-col">
+          <h3>
+            Gift of Membership <br />
+            + Body Work
+          </h3>
+          <p class="flex-grow">
+            Give the gift of membership and a body work session. This gift
+            covers the cost of a membership for one year and a body work
+            session.
+          </p>
+          <div class="flex justify-center">
+            <DonateButton />
+          </div>
+        </Card>
+        <Card class="flex-1 bg-[#fafafa] flex flex-col">
+          <h3>Gift of Care</h3>
+          <p class="flex-grow">
+            Give the gift of care to a current member of the community. This
+            gift covers the cost of a one-time care session.
+          </p>
+          <div class="flex justify-center">
+            <DonateButton />
+          </div>
+        </Card>
+      </div>
     </StandardTemplate>
 
     <template #footer>
@@ -82,7 +115,5 @@
 </template>
 
 <script>
-export default {
-
-};
+export default {};
 </script>
