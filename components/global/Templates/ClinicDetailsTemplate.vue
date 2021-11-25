@@ -57,7 +57,27 @@
           </div>
         </div>
       </div>
-      <div class="flex flex-col md:flex-row pt-16">
+      <section class="mt-16 bg-hlc-brown-100">
+        <p>
+          We acknowledge that the land where we are located rests on the
+          traditional village sites of the Multnomah, Kathlamet, Clackamas,
+          Tualatin, Kalapuya, and Molalla bands of the Chinook, and many other
+          Tribes who made their homes along the Columbia River. We also
+          acknowledge that systemic policies of genocide, relocation, and
+          assimilation continue to impact Indigenous/Native American families
+          today.
+        </p>
+        <p>
+          We are guests on these lands and we honor the sovereignty of First
+          Nations tribes, leaders, communities and families. We commit to
+          ongoing, real-world efforts to center Indigenous wisdom, creativity,
+          health and resilience in our work and life. We recognize that
+          decolonization means land back and so we stand in solidarity with
+          rematriation efforts. To learn whose homelands you are on, visit:
+          <a href="https://native-land.ca/">Native-Land.ca</a>
+        </p>
+      </section>
+      <div class="flex flex-col md:flex-row flex-wrap pt-16">
         <Hours
           v-for="hours in content.hours"
           :key="hours.title"

@@ -1,13 +1,13 @@
 <template>
-  <div class="col">
-    <h3>{{title}}</h3>
+  <div class="w-full md:w-1/2 p-3">
+    <h3>{{ title }}</h3>
     <p>
-      {{description}}
+      {{ description }}
     </p>
     <ul class="hours">
       <li v-for="(day, index) in days" :key="title + index">
-        <div>{{day.name}}</div>
-        <div>{{day.value}}</div>
+        <div>{{ day.name }}</div>
+        <div>{{ day.value }}</div>
       </li>
     </ul>
   </div>
@@ -33,10 +33,6 @@ export default {
 </script>
 
 <style lang="postcss" scoped>
-.col {
-  @apply flex-1;
-}
-
 ul.hours {
   @apply pl-0;
 }

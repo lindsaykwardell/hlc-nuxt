@@ -11,7 +11,11 @@ export default {};
 <style lang="postcss">
 .template {
   section {
-    @apply bg-white shadow p-8 mb-4;
+    @apply shadow p-8 mb-4;
+
+    &:not([class*="bg-"]) {
+      @apply bg-white;
+    }
 
     &:not(.full) > * {
       margin-left: auto;

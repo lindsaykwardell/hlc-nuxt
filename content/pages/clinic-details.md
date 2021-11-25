@@ -12,7 +12,7 @@ contact:
   - name: Fax
     value: 1-503-376-3790
   - name: Email
-    value: drkerry@hlcomm.org
+    value: liz@hlcomm.org
 hours:
   - title: Dr. Kerry's Hours
     description: Dr. Kerry is available for patient appointments during the following hours
@@ -23,6 +23,13 @@ hours:
         value: 9:30am - 2:00pm
       - name: Friday (every other week)
         value: 9:00am - 3:00pm
+  - title: Dr. Susanne's Hours
+    description: Dr. Susanne is available for patient appointments during the following hours
+    days:
+      - name: Thursday
+        value: 12:00pm - 6:00pm
+      - name: Saturday
+        value: 8:00am - 2:00pm
   - title: Windy's Hours
     description: Windy is available for patient appointments during the following hours
     days:
