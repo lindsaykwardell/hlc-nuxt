@@ -14,9 +14,14 @@
       <h1 class="font-merriweather">Give the Gift of Healing</h1>
 
       <img
-        src="https://images.unsplash.com/photo-1482355785872-95d19e9ebee6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80"
+        src="/gift-of-healing.webp"
         class="w-5/6 shadow-lg rounded-lg m-auto no-default"
       />
+
+      <!-- <img
+        src="https://images.unsplash.com/photo-1482355785872-95d19e9ebee6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80"
+        class="w-5/6 shadow-lg rounded-lg m-auto no-default"
+      /> -->
 
       <div class="w-3/4 m-auto py-8">
         <p>
