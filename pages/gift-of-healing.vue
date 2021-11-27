@@ -15,64 +15,52 @@
 
       <img
         src="/gift-of-healing-cropped.webp"
-        class="w-5/6 shadow-lg rounded-lg m-auto no-default"
+        class="w-3/5 shadow-lg rounded-lg m-auto no-default"
       />
 
       <div class="w-3/4 m-auto py-8">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-          lobortis felis luctus orci fringilla pretium. Aenean ut purus turpis.
-          Maecenas iaculis euismod dui at lobortis. Integer accumsan volutpat
-          tempor. Phasellus a ipsum vel lacus scelerisque auctor. Ut at enim sit
-          amet felis commodo dictum id vel felis. Nulla egestas quam eu massa
-          luctus, ac faucibus dolor sodales. Suspendisse est sem, pellentesque
-          quis porttitor vitae, cursus ut lacus. Pellentesque habitant morbi
-          tristique senectus et netus et malesuada fames ac turpis egestas.
-          Aenean non porta nisi. Vivamus sem arcu, malesuada vitae dolor ac,
-          dictum lacinia eros. Maecenas et semper turpis. Nam imperdiet, sem non
-          consequat maximus, mauris sapien pharetra sem, sit amet auctor nisl
-          est eget quam. Vivamus faucibus urna id mi hendrerit malesuada.
+          Give the gift of healing this holiday season! If your friend or loved
+          one is looking for a supportive community of health professionals, you
+          can help them by donating to the Healthy Living Community. The gift of
+          healing is a gift of love and compassion. It is a gift of life, and it
+          is a gift of hope.
         </p>
-
         <p>
-          Nulla facilisi. Fusce semper nibh sit amet pharetra tristique. Sed
-          commodo orci at enim cursus dignissim. Donec tempus lobortis aliquam.
-          Fusce sollicitudin faucibus odio, tincidunt mattis dolor imperdiet a.
-          Curabitur vel bibendum libero. Nullam pretium posuere dolor, eget
-          semper mauris vehicula ac. Fusce odio dui, tempus id velit sed,
-          venenatis venenatis ex. Nam facilisis rutrum pulvinar.
+          You can give the gift of healing in three ways:
+          <ul>
+            <li>By paying for membership in Healthy Living Community for one year.</li>
+            <li>By paying for membership in Healthy Living Community for one year PLUS a body work session.</li>
+            <li>By paying for a single visit with one of our health practitioners.</li>
+          </ul>
         </p>
-
         <p>
-          Morbi et nulla ante. Nulla facilisi. Nulla iaculis ligula interdum
-          justo consequat, id posuere sem dapibus. Integer dignissim quam in
-          lacus tristique sodales. Ut non metus ex. Vestibulum ante ipsum primis
-          in faucibus orci luctus et ultrices posuere cubilia curae; Praesent
-          venenatis leo augue, sed consectetur metus dictum sodales. Nunc
-          ultricies est sit amet massa auctor mattis. Duis at sodales arcu.
-          Nulla eget porttitor orci, non pretium sem. Vestibulum ornare
-          venenatis rutrum. Vestibulum a facilisis ante, vel suscipit erat. Duis
-          maximus ultrices odio nec semper. Proin porttitor sodales magna a
-          sollicitudin. Aenean eros lectus, dapibus eget nulla ac, eleifend
-          elementum quam. Mauris ut justo sagittis, placerat arcu ut, finibus
-          ligula.
+          Whatever you choose, you can make a difference in the health and wellness of your loved ones.
         </p>
       </div>
       <section>
-        <h2>Amazing Title Goes Here</h2>
+        <h2>What is Healthy Living Community?</h2>
         <p>
-          Duis sed erat in elit bibendum porta nec vitae leo. Duis fringilla
-          convallis nibh. Duis vulputate turpis et purus bibendum aliquet eget
-          vitae nisi. Mauris sodales est eget est varius, vitae lacinia lorem
-          convallis. Vestibulum porta mauris vitae nibh gravida vulputate.
-          Maecenas bibendum ipsum quam, eu commodo ex faucibus vel. Nulla a leo
-          sit amet lorem efficitur fringilla. Nunc ac rutrum mi. Donec sed
-          malesuada nisl.
+          We are a registered 501(c)(3) nonprofit that offers affordable,
+          patient-centered, inclusive, and trauma-informed care in a beautiful
+          and welcoming setting. We focus on root causes of symptoms, and work
+          with our patients on treatment plans that are both realistic and
+          effective. Our patient care integrates medications with diet and
+          exercise, as well as referrals to massage, acupuncture, naturopathic
+          medicine and various other modalities. Our goal is to do this in a
+          compassionate, cost-effective, and earth-friendly manner.
+        </p>
+        <p>
+          By supporting Healthy Living Community, you are helping to make a
+          difference in the lives of people in need. We are a non-profit
+          organization that is dedicated to providing a safe, healthy, and
+          supportive environment for all. We are a community of people who are
+          passionate about health, wellness, and wellness.
         </p>
       </section>
       <div class="flex items-center py-8">
         <Card class="flex-1 bg-[#fafafa] flex flex-col">
-          <h3>Give Membership</h3>
+          <h3>Gift of Membership</h3>
           <p class="flex-grow">
             Give the gift of membership to a friend or family member. This gift
             covers the cost of a membership for one year.
