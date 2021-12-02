@@ -131,9 +131,9 @@ And that’s why I’m asking you to join me in spreading the word!"
 
 ## How to join our community
 
-It's easy! Just click the link below! You will be redirected to a Membership Form which must be submitted prior to scheduling an appointment for you or a family member.
+It's easy! Just click the link below! You will be redirected to a Membership Form which must be submitted prior to scheduling an appointment for you or a family member. On that page will be asked to enter your name and email address. After submitting, you will be sent an email with an access code to proceed with filling out the DocuSign membership form.
 
-[Healthy Living Community Membership Form](https://na4.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=f2ffa18c-1dbb-4131-8e14-57a5dbbd4db9&env=na4&acct=0e6fd90f-71e8-49ae-a981-177bebc0810f&v=2)
+[Healthy Living Community Membership Form](https://na4.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=f2ffa18c-1dbb-4131-8e14-57a5dbbd4db9&env=na4&acct=0e6fd90f-71e8-49ae-a981-177bebc0810f&v=2) (external link)
 
 After submitting the form, you will be contacted to schedule your first appointment. If you have any difficulty filling out the form, please call the office or email Liz at liz@hlcomm.org. 
 

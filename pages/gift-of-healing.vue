@@ -55,7 +55,7 @@
           difference in the lives of people in need. We are a non-profit
           organization that is dedicated to providing a safe, healthy, and
           supportive environment for all. We are a community of people who are
-          passionate about health, wellness, and wellness.
+          passionate about health and wellness.
         </p>
       </section>
       <div class="flex items-center py-8">
