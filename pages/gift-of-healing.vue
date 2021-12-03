@@ -20,22 +20,16 @@
 
       <div class="w-3/4 m-auto py-8">
         <p>
-          Give the gift of healing this holiday season! If your friend or loved
-          one is looking for a supportive community of health professionals, you
-          can help them by donating to the Healthy Living Community. The gift of
-          healing is a gift of love and compassion. It is a gift of life, and it
-          is a gift of hope.
+          Do you have loved ones who are uninsured, under-insured or simply not being supported by the current health care system? Give the gift of healing by signing them up for membership at Healthy Living Community.
         </p>
         <p>
-          You can give the gift of healing in three ways:
-          <ul>
-            <li>By paying for membership in Healthy Living Community for one year.</li>
-            <li>By paying for membership in Healthy Living Community for one year PLUS a body work session.</li>
-            <li>By paying for a single visit with one of our health practitioners.</li>
-          </ul>
+          Healthy Living Community is a non-profit health clinic providing affordable holistic health care and health-supporting resources in SE Portland. We are working to create a model of community supported healthcare offering sliding-scale memberships and pay what you can appointments as our answer to the broken medical system. Members receive 30-60 minute appointments of high-quality, trauma-informed holistic health care regardless of what they are able to pay. Membership also includes: nutrition and food support, supplements, connections with health-promoting community partners, support groups and educational events all at a discounted rate.
         </p>
         <p>
-          Whatever you choose, you can make a difference in the health and wellness of your loved ones.
+          Healthy Living Community believes that healthy communities grow health individuals. We provide education to ensure that people understand what it is to be healthy and how to build our personal health.  We know that it requires support through education and a community of like-minded peers to create and maintain optimal health. At Healthy Living Community holistic care means access to providers who will fully listen and work in partnership with our members to help guide their unique paths towards health.
+        </p>
+        <p>
+          Are your loved ones already part of the Healthy Living Community? You can gift them with a bodywork session and/or food sensitivity test. Want to support other community members too? You can donate to support our mission and help pay for the quality care our members receive.
         </p>
       </div>
       <section>
