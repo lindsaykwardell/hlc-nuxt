@@ -52,7 +52,7 @@ export default {};
     @apply w-full table-fixed text-center;
   }
 
-  a {
+  a:not(.action-button):not(.donate-button) {
     @apply text-hlc-green-500 underline;
 
     &:hover {
