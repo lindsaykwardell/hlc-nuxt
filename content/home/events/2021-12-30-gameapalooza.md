@@ -1,6 +1,6 @@
 ---
 title: Game-a-palooza!
-date: 2021-12-30T18:30:00-07:00
+date: 2021-12-30T18:30:00-08:00
 image: gameapalooza.jpg
 location: Zoom
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chronic Illness Support Group
-date: 2021-12-26T18:00:00-07:00
+date: 2021-12-26T18:00:00-08:00
 image: chronic-illness-support.jpg
 location: Zoom
 ---

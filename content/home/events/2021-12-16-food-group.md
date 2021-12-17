@@ -1,6 +1,6 @@
 ---
 title: Thriving on a Personalized Food Plan
-date: 2021-12-16T19:30:00-07:00
+date: 2021-12-16T19:30:00-08:00
 image: food-plan-event.jpg
 location: Zoom
 ---
