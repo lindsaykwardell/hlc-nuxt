@@ -1,5 +1,9 @@
 <template>
   <Layout :pages="pages" activePage="/">
+    <section class="text-center">
+      <h1>Welcome to Healthy Living Community</h1>
+      <h2>Your SE Portland Community Health Center</h2>
+    </section>
     <div class="hero overflow-hidden m-auto relative my-8 shadow-lg">
       <opti-image
         :key="heroImg"
@@ -8,9 +12,10 @@
         class="w-full object-cover"
       />
     </div>
+    <h2 class="text-center">Together we can grow optimal health</h2>
     <StandardTemplate>
       <nuxt-content :document="content" />
-      <div class="flex flex-col lg:flex-row">
+      <!-- <div class="flex flex-col lg:flex-row">
         <aside class="w-full lg:w-1/4 mb-4 lg:mb-0 bg-white shadow">
           <div v-if="event" class="mb-4">
             <h3>Upcoming Events</h3>
@@ -31,7 +36,9 @@
               <nuxt-content :document="event" />
             </div>
             <div class="p-4">
-              Check out <nuxt-link to="/activities">all upcoming activities</nuxt-link> to see everything we're doing!
+              Check out
+              <nuxt-link to="/activities">all upcoming activities</nuxt-link> to
+              see everything we're doing!
             </div>
           </div>
         </aside>
@@ -40,7 +47,7 @@
             <nuxt-content :document="notice" />
           </section>
         </div>
-      </div>
+      </div> -->
     </StandardTemplate>
   </Layout>
 </template>
@@ -86,3 +93,19 @@ export default {
   }
 };
 </script>
+
+<style scoped lang="postcss">
+section {
+  @apply shadow p-8 mb-4;
+
+  &:not([class*="bg-"]) {
+    @apply bg-white;
+  }
+
+  &:not(.full) > * {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+  }
+}
+</style>
