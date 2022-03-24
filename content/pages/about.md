@@ -29,12 +29,6 @@ HLC has integrated a model of care that offers a low cost sliding-scale membersh
 
 We are committed to cost transparency, and appreciate that this model of care provides flexibility to our members--allowing them to make payments based on their current financial situation. Those who are able to pay a higher monthly membership, or the full cost for an appointment, will help offset the cost for individuals who may be unable to afford healthcare at this time. Our goal is to make Healthy Living Community’s unique functional healthcare accessible to all.
 
-<div class="sm:float-right">
-
-##### [Read our Flow Sheet: ![](new-model-flow-sheet-250x323.jpg)](healthy-living-family-medicine-flow-sheet.pdf)
-
-</div>
-
 **At Healthy Living Community, we believe that healthy communities grow healthy individuals.** We foster growth in our community by holding regular events (classes, workshops, gatherings), establishing platforms for communication among our members, and ensuring our clinic is an affirming and supportive place for all. We also are also establishing connections with local organizations to build a supportive network of health.
 
 With this healthcare model, people are able to make meaningful investments in their, and their community’s, health. Together, we can work to create a sustainable community of wellness for all of us here at Health Living Community. Let’s demonstrate to other health communities that a different accessible approach that provides superior care is possible.
