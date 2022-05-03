@@ -11,12 +11,12 @@ If you contact our providers outside of an appointment, there will be a sliding 
 If you have a new non-urgent health concern or continuing care question, please start by contacting Pearl and trying to schedule an in-person (or Telemedicine) appointment with our providers. For truly urgent issues, we are often able to accommodate same-day appointments, and will try our best to do so if warranted.
 If you are unable to find an appointment time that works with your schedule, or would like your issue addressed sooner than appointment times we can provide, you can reach out via portal message, with the understanding that a sliding-scale fee will be charged as noted on the fee schedule below.
 
-If you If you have an urgent concern after hours, you can contact your primary care provider for support. Dr. Kerry prefers a text, please check with Windy for how she would prefer to be contacted. We can both give advice and help you determine if a visit to urgent care or the ED is warranted. Please understand for this contact a sliding-scale fee will be charged as noted on the fee schedule below.
+If you If you have an urgent concern after hours, you can contact your primary care provider for support. Dr. Kerry prefers a text, Windy prefers text, Dr. Susanne prefers a phone call. We can all give advice and help you determine if a visit to urgent care or the ED is warranted. Please understand for this contact a sliding-scale fee will be charged as noted on the fee schedule below.
 
 **A breakdown of HLC’s outside of appointment communication policies:**
-- Text messaging - any text sent directly to Dr. Kerry’s or Windy's personal phone should be deeply considered and reserved for urgent issues. 
+- Text messaging - any text sent directly to Dr. Kerry’s, Windy's, or Dr. Susanne's personal phone should be deeply considered and reserved for urgent issues. 
 - Short text conversations (a few messages back and forth) are $30, a more lengthy conversation will be billed at $60-120 depending on time spent responding
-- Phone Calls - during business hours please call the clinic number (971-231-4536) for all concerns. Urgent concerns outside of business hours please text Dr. Kerry’s personal phone (number on the clinic voicemail) and she will call you back.
+- Phone Calls - during business hours please call the clinic number (971-231-4536) for all concerns. Urgent concerns outside of business hours please follow instructions on the voicemail to reach the on call physician (Windy, Dr. Susanne, or Dr. Kerry).
 
 Calls will be billed as visits:
 - 5-15 minutes: $60
