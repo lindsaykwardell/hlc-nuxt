@@ -17,12 +17,13 @@ hours:
   - title: Dr. Kerry's Hours
     description: Dr. Kerry is available for patient appointments during the following hours
     days:
-      - name: Monday (every other week)
-        value: 9:30am - 2:00pm
-      - name: Tuesday
-        value: 9:30am - 2:00pm
-      - name: Friday (every other week)
-        value: 9:00am - 3:00pm
+      - name: Currently on extended leave
+      # - name: Monday (every other week)
+      #   value: 9:30am - 2:00pm
+      # - name: Tuesday
+      #   value: 9:30am - 2:00pm
+      # - name: Friday (every other week)
+      #   value: 9:00am - 3:00pm
   - title: Dr. Susanne's Hours
     description: Dr. Susanne is available for patient appointments during the following hours
     days:
@@ -33,10 +34,12 @@ hours:
   - title: Windy's Hours
     description: Windy is available for patient appointments during the following hours
     days:
-      - name: Monday (every other week)
+      - name: Monday
         value: 9:00am - 5:00pm
-      - name: Friday (every other week)
-        value: 9:00am - 3:00pm
+      - name: Tuesday
+        value: 9:00am - 5:00pm
+      - name: Friday
+        value: 9:00am - 5:00pm
   - title: Pearl's Hours
     description: At this time, the clinic building is only open by appointment (no walk-in). Please contact Pearl in the Patient Portal to schedule a time to purchase supplements or other services.
     days:

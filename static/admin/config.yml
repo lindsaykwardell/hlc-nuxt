@@ -17,3 +17,65 @@ collections:
       - { label: "Author", name: author, widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "faq"
+    label: "FAQ"
+    folder: "content/faq"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "order", widget: "number" }
+      - { label: "Icon", name: "icon", widget: "list" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "event"
+    label: "Event"
+    folder: "content/home/events"
+    create: true
+    fields:
+      - { label: "Event Title", name: "title", widget: "string" }
+      - { label: "Header Image", name: "image", widget: "image" }
+      - { label: "Event Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "page"
+    label: "Page"
+    folder: "content/pages"
+    create: false
+    fields:
+      - { label: "Page Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Page Template",
+          name: "template",
+          widget: "select",
+          options:
+            [
+              "StandardTemplate",
+              "CardsTemplate",
+              "ClinicDetailsTemplate",
+              "QaTemplate",
+            ],
+        }
+      - { label: "Order", name: "order", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "homepage"
+    label: "Home Page"
+    files:
+      - name: "home"
+        label: "Home"
+        file: "/content/home/home.md"
+        fields:
+          - {
+              label: "Hero Image Options",
+              name: "hero",
+              widget: "list",
+              field: { label: Image, name: image, widget: image },
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+  - name: "service"
+    label: "Service"
+    folder: "content/services"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
